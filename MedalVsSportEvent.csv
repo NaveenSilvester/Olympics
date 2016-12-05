@@ -1,0 +1,741 @@
+Sport,Event,EventType,EventType,Gold,NameOfGoldMedalWinner,Silver,NameOfSilverMedalWinner,Bronze,NameOfBronzeMedalWinner
+Archery,Men's Individual,Individual,Male,SouthKorea,Ku Bon-chan,France,Jean-Charles Valladont,UnitedStates,Brady Ellison
+Archery,Men's team,Team,Male,SouthKorea,Ku Bon-chan,UnitedStates,Brady Ellison,Australia,Alec Potts
+Archery,Men's team,Team,Male,SouthKorea,Lee Seung-yun,UnitedStates,Zach Garrett,Australia,Ryan Tyack
+Archery,Men's team,Team,Male,SouthKorea,Kim Woo-jin,UnitedStates,Jake Kaminski,Australia,Taylor Worth
+Archery,Women's individual,Individual,Female,SouthKorea,Chang Hye-jin,Germany,Lisa Unruh,SouthKorea,Ki Bo-bae
+Archery,Women's team,Team,Female,SouthKorea,Chang Hye-jin,Russia,Tuyana Dashidorzhieva,ChineseTaipei,Le Chien-ying
+Archery,Women's team,Team,Female,SouthKorea,Choi Mi-sun,Russia,Ksenia Perova,ChineseTaipei,Lin Shih-chia
+Archery,Women's team,Team,Female,SouthKorea,Ki Bo-bae,Russia,Inna Stepanova,ChineseTaipei,Tan Ya-ting
+Athletics,100 metres,Individual,Male,Jamaica,Usain Bolt,UnitedStates,Justin Gatlin,Canada,Andre De Grasse
+Athletics,200 metres,Individual,Male,Jamaica,Usain Bolt,Canada,Andre De Grasse,France,Christophe Lemaitre
+Athletics,400 metres,Individual,Male,SouthAfrica,Wayde van Niekerk,Grenada,Kirani James,UnitedStates,LaShawn Merritt
+Athletics,800 metres,Individual,Male,Kenya,David Rudisha,Algeria,Taoufik Makhloufi,UnitedStates,Clayton Murphy
+Athletics,1500 metres,Individual,Male,UnitedStates,"Matthew Centrowitz, Jr.",Algeria,Taoufik Makhloufi,NewZealand,Nick Willis
+Athletics,5000 metres,Individual,Male,GreatBritain,Mo Farah,UnitedStates,Paul Kipkemoi Chelimo,Ethiopia,Hagos Gebrhiwet
+Athletics,"10,000 metres",Individual,Male,GreatBritain,Mo Farah,Kenya,Paul Tanui,Ethiopia,Tamirat Tola
+Athletics,110 metres hurdles,Individual,Male,Jamaica,Omar McLeod,Spain,Orlando Ortega,Spain,Dimitri Bascou
+Athletics,400 metres hurdles,Individual,Male,UnitedStates,Kerron Clement,Kenya,Boniface Mucheru Tumuti,Turkey,Yasmani Copello
+Athletics,3000 metres steeplechase,Individual,Male,Kenya,Conseslus Kipruto,UnitedStates,Evan Jager,France,Mahiedine Mekhissi-Benabbad
+Athletics,4×100 metres relay,Team,Male,Jamaica,Asafa Powell,Japan,Ryota Yamagata,Canada,Akeem Haynes
+Athletics,4×100 metres relay,Team,Male,Jamaica,Yohan Blake,Japan,Shota Iizuka,Canada,Aaron Brown
+Athletics,4×100 metres relay,Team,Male,Jamaica,Nickel Ashmeade,Japan,Yoshihide Kiryu,Canada,Brendon Rodney
+Athletics,4×100 metres relay,Team,Male,Jamaica,Usain Bolt,Japan,Asuka Cambridge,Canada,Andre De Grasse
+Athletics,4×100 metres relay,Team,Male,Jamaica,Jevaughn Minzie,NoMedal,NoMedal,Canada,Mobolade Ajomale
+Athletics,4×100 metres relay,Team,Male,Jamaica,Kemar Bailey-Cole,NoMedal,NoMedal,NoMedal,NoMedal
+Athletics,4×400 metres relay,Team,Male,UnitedStates,Arman Hall,Jamaica,Peter Matthews,Bahamas,Alonzo Russell
+Athletics,4×400 metres relay,Team,Male,UnitedStates,Tony McQuay,Jamaica,Nathon Allen,Bahamas,Michael Mathieu
+Athletics,4×400 metres relay,Team,Male,UnitedStates,Gil Roberts,Jamaica,Fitzroy Dunkley,Bahamas,Steven Gardiner
+Athletics,4×400 metres relay,Team,Male,UnitedStates,LaShawn Merritt,Jamaica,Javon Francis,Bahamas,Chris Brown
+Athletics,4×400 metres relay,Team,Male,UnitedStates,Kyle Clemons,Jamaica,Rusheen McDonald,Bahamas,Stephen Newbold
+Athletics,4×400 metres relay,Team,Male,UnitedStates,David Verburg,NoMedal,NoMedal,NoMedal,NoMedal
+Athletics,Marathon,Individual,Male,Kenya,Eliud Kipchoge,Ethiopia,Feyisa Lilesa,UnitedStates,Galen Rupp
+Athletics,20 kilometres walk,Individual,Male,China,Wang Zhen,China,Cai Zelin,Australia,Dane Bird-Smith
+Athletics,50 kilometres walk,Individual,Male,Slovakia,Matej Tóth,Australia,Jared Tallent,Japan,Hirooki Arai
+Athletics,High jump,Individual,Male,Canada,Derek Drouin,Qatar,Mutaz Essa Barshim,Ukraine,Bohdan Bondarenko
+Athletics,Pole vault,Individual,Male,Brazil,Thiago Braz da Silva,France,Renaud Lavillenie,UnitedStates,Sam Kendricks
+Athletics,Long jump,Individual,Male,UnitedStates,Jeff Henderson,SouthAfrica,Luvo Manyonga,GreatBritain,Greg Rutherford
+Athletics,Triple jump,Individual,Male,UnitedStates,Christian Taylor,UnitedStates,Will Claye,China,Dong Bin
+Athletics,Shot put,Individual,Male,UnitedStates,Ryan Crouser,UnitedStates,Joe Kovacs,NewZealand,Tomas Walsh
+Athletics,Discus throw,Individual,Male,Germany,Christoph Harting,Poland,Piotr Ma?achowski,Germany,Daniel Jasinski
+Athletics,Hammer throw,Individual,Male,Tajikistan,Dilshod Nazarov,Belarus,Ivan Tsikhan,Poland,Wojciech Nowicki
+Athletics,Javelin throw,Individual,Male,Germany,Thomas Röhler,Kenya,Julius Yego,TrinidadandTobago,Keshorn Walcott
+Athletics,Decathlon,Individual,Male,UnitedStates,Ashton Eaton,France,Kévin Mayer,Canada,Damian Warner
+Athletics,100 metres,Individual,Female,Jamaica,Elaine Thompson,UnitedStates,Tori Bowie,Jamaica,Shelly-Ann Fraser-Pryce
+Athletics,200 metres,Individual,Female,Jamaica,Elaine Thompson,Netherlands,Dafne Schippers,UnitedStates,Tori Bowie
+Athletics,400 metres,Individual,Female,Bahamas,Shaunae Miller,UnitedStates, Allyson Felix,Jamaica,Shericka Jackson
+Athletics,800 metres,Individual,Female,SouthAfrica,Caster Semenya,Burundi,Francine Niyonsaba,Kenya,Margaret Wambui
+Athletics,1500 metres,Individual,Female,Kenya,Faith Kipyegon,Ethiopia,Genzebe Dibaba,UnitedStates,Jennifer Simpson
+Athletics,5000 metres,Individual,Female,Kenya,Vivian Cheruiyot,Kenya,Hellen Onsando Obiri,Ethiopia,Almaz Ayana
+Athletics,"10,000 metres",Individual,Female,Ethiopia,Almaz Ayana,Kenya, Vivian Cheruiyot,Ethiopia,Tirunesh Dibaba
+Athletics,100 metres hurdles,Individual,Female,UnitedStates,Brianna Rollins,UnitedStates,Nia Ali,UnitedStates,Kristi Castlin
+Athletics,400 metres hurdles,Individual,Female,UnitedStates,Dalilah Muhammad,Denmark,Sara Petersen,UnitedStates,Ashley Spencer
+Athletics,3000 metres steeplechase,Individual,Female,Bahrain,Ruth Jebet,Kenya,Hyvin Jepkemoi,UnitedStates,Emma Coburn
+Athletics,4×100 metres relay,Team,Female,UnitedStates,Tianna Bartoletta,Jamaica,Christania Williams,GreatBritain,Asha Philip
+Athletics,4×100 metres relay,Team,Female,UnitedStates,Allyson Felix,Jamaica,Elaine Thompson,GreatBritain,Desiree Henry
+Athletics,4×100 metres relay,Team,Female,UnitedStates,English Gardner,Jamaica,Veronica Campbell-Brown,GreatBritain,Dina Asher-Smith
+Athletics,4×100 metres relay,Team,Female,UnitedStates,Tori Bowie,Jamaica,Shelly-Ann Fraser-Pryce,GreatBritain,Daryll Neita
+Athletics,4×100 metres relay,Team,Female,UnitedStates,Morolake Akinosun,Jamaica,Simone Facey,NoMedal,NoMedal
+Athletics,4×100 metres relay,Team,Female,NoMedal,NoMedal,Jamaica,Sashalee Forbes,NoMedal,NoMedal
+Athletics,4×400 metres relay,Team,Female,UnitedStates,Allyson Felix,Jamaica,Stephenie Ann McPherson,GreatBritain,Eilidh Doyle
+Athletics,4×400 metres relay,Team,Female,UnitedStates,Phyllis Francis,Jamaica,Anneisha McLaughlin-Whilby,GreatBritain,Anyika Onuora
+Athletics,4×400 metres relay,Team,Female,UnitedStates,Natasha Hastings,Jamaica,Shericka Jackson,GreatBritain,Emily Diamond
+Athletics,4×400 metres relay,Team,Female,UnitedStates,Courtney Okolo,Jamaica,Novlene Williams-Mills,GreatBritain,Christine Ohuruogu
+Athletics,4×400 metres relay,Team,Female,UnitedStates,Taylor Ellis-Watson,Jamaica,Christine Day,GreatBritain,Kelly Massey
+Athletics,4×400 metres relay,Team,Female,UnitedStates,Francena McCorory,Jamaica,Chrisann Gordon,NoMedal,NoMedal
+Athletics,Marathon,Individual,Female,Kenya,Jemima Sumgong,Bahrain,Eunice Kirwa,Ethiopia,Mare Dibaba
+Athletics,20 kilometres walk,Individual,Female,China,Liu Hong,Mexico,María Guadalupe González,China,Lü Xiuzhi
+Athletics,High jump,Individual,Female,Spain,Ruth Beitia,Bulgaria,Mirela Demireva,Croatia,Blanka Vlaši?
+Athletics,Pole vault,Individual,Female,Greece,Ekaterini Stefanidi,UnitedStates,Sandi Morris,NewZealand,Eliza McCartney
+Athletics,Long jump,Individual,Female,UnitedStates,Tianna Bartoletta,UnitedStates,Britney Reese,Serbia,Ivana Španovi?
+Athletics,Triple jump,Individual,Female,Columbia,Caterine Ibargüen,Venezuela,Yulimar Rojas,Kazakhstan,Olga Rypakova
+Athletics,Shot put,Individual,Female,UnitedStates,Michelle Carter,NewZealand,Valerie Adams,Hungary,Anita Marton
+Athletics,Discus throw,Individual,Female,Croatia,Sandra Perkovi?,France,Mélina Robert-Michon,Cuba,Denia Caballero
+Athletics,Hammer throw,Individual,Female,Poland,Anita W?odarczyk,China,Zhang Wenxiu,GreatBritain,Sophie Hitchon
+Athletics,Sophie Hitchon,Individual,Female,Croatia,Sara Kolak,SouthAfrica,Sunette Viljoen,CzechRepublic,Barbora Špotáková
+Athletics,Heptathlon,Individual,Female,Belgium,Nafissatou Thiam,GreatBritain,Jessica Ennis-Hill,Canada,Brianne Theisen-Eaton
+Badmiton,Men's singles,Individual,Male,China,Chen Long,Malaysia,Lee Chong Wei,Denmark,Viktor Axelsen
+Badmiton,Men's doubles,Team,Male,China,Fu Haifeng,Malaysia,Goh V Shem,GreatBritain,Chris Langridge
+Badmiton,Men's doubles,Team,Male,China,Zhang Nan,Malaysia,Tan Wee Kiong,GreatBritain,Marcus Ellis
+Badmiton,Women's singles,Individual,Female,Spain,Carolina Marín,India,P.V. Sindhu,Japan,Nozomi Okuhara
+Badmiton,Women's doubles,Team,Female,Japan,Misaki Matsutomo,Denmark,Christinna Pedersen,SouthKorea,Jung Kyung-eun
+Badmiton,Women's doubles,Team,Female,Japan,Ayaka Takahashi,Denmark,Kamilla Rytter Juhl,SouthKorea,Shin Seung-chan
+Badmiton,Mixed doubles,Team,Mixed,Indonesia,Tontowi Ahmad,Malaysia,Chan Peng Soon,China,Zhang Nan
+Badmiton,Mixed doubles,Team,Mixed,Indonesia,Liliyana Natsir,Malaysia,Goh Liu Ying,China,Zhao Yunlei
+Basketball,Men,Team,Male,UnitedStates,Jimmy Butler,Serbia,Milos Teodosic,Spain,Pau Gasol
+Basketball,Men,Team,Male,UnitedStates,Kevin Durant,Serbia,Marko Simonovic,Spain,Rudy Fernández
+Basketball,Men,Team,Male,UnitedStates,DeAndre Jordan,Serbia,Bogdan Bogdanovic,Spain,Sergio Rodríguez
+Basketball,Men,Team,Male,UnitedStates,Kyle Lowry,Serbia,Stefan Markovic,Spain,Juan Carlos Navarro
+Basketball,Men,Team,Male,UnitedStates,Harrison Barnes,Serbia,Nikola Kalinic,Spain,José Manuel Calderón
+Basketball,Men,Team,Male,UnitedStates,DeMar DeRozan,Serbia,Nemanja Nedovic,Spain,Felipe Reyes
+Basketball,Men,Team,Male,UnitedStates,Kyrie Irving,Serbia,Stefan Bircevic,Spain,Víctor Claver
+Basketball,Men,Team,Male,UnitedStates,Klay Thompson,Serbia,Miroslav Raduljica,Spain,Willy Hernangómez
+Basketball,Men,Team,Male,UnitedStates,DeMarcus Cousins,Serbia,Nikola Jokic,Spain,Álex Abrines
+Basketball,Men,Team,Male,UnitedStates,Paul George,Serbia,Vladimir Stimac,Spain,Sergio Llull
+Basketball,Men,Team,Male,UnitedStates,Draymond Green,Serbia,Stefan Jovic,Spain,Nikola Miroti?
+Basketball,Men,Team,Male,UnitedStates,Carmelo Anthony,Serbia,Milan Macvan,Spain,Ricky Rubio
+Basketball,Women,Team,Female,UnitedStates,Seimone Augustus,Spain,Leticia Romero,Serbia,Tamara Rado?aj
+Basketball,Women,Team,Female,UnitedStates,Sue Bird,Spain,Laura Nicholls,Serbia,Sonja Petrovi?
+Basketball,Women,Team,Female,UnitedStates,Tamika Catchings,Spain,Silvia Domínguez,Serbia,Saša ?a?o
+Basketball,Women,Team,Female,UnitedStates,Tina Charles,Spain,Alba Torrens,Serbia,Sara Krnji?
+Basketball,Women,Team,Female,UnitedStates,Elena Delle Donne,Spain,Laia Palau,Serbia,Nevena Jovanovi?
+Basketball,Women,Team,Female,UnitedStates,Sylvia Fowles,Spain,Marta Xargay,Serbia,Jelena Milovanovi?
+Basketball,Women,Team,Female,UnitedStates,Brittney Griner,Spain,Leonor Rodríguez,Serbia,Dajana Butulija
+Basketball,Women,Team,Female,UnitedStates,Angel McCoughtry,Spain,Lucila Pascua,Serbia,Dragana Stankovi?
+Basketball,Women,Team,Female,UnitedStates,Maya Moore,Spain,Anna Cruz,Serbia,Aleksandra Crvendaki?
+Basketball,Women,Team,Female,UnitedStates,Breanna Stewart,Spain,Laura Quevedo,Serbia,Milica Dabovi?
+Basketball,Women,Team,Female,UnitedStates,Diana Taurasi,Spain,Laura Gil,Serbia,Ana Dabovi?
+Basketball,Women,Team,Female,UnitedStates,Lindsay Whalen,Spain,Astou Ndour,Serbia,Danielle Page
+Boxing,Light flyweight,Individual,Male,Uzbekistan,Hasanboy Dusmatov,Colombia,Yuberjén Martínez,Cuba,Joahnys Argilagos
+Boxing,Light flyweight,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,UnitedStates,Nico Hernández
+Boxing,Flyweight,Individual,Male,Uzbekistan,Shakhobidin Zoirov,Russia,Misha Aloyan,Venezuela,Yoel Finol
+Boxing,Flyweight,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,China,Hu Jianguan
+Boxing,Bantamweight,Individual,Male,Cuba,Robeisy Ramírez,UnitedStates,Shakur Stevenson,Russia,Vladimir Nikitin
+Boxing,Bantamweight,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Uzbekistan,Murodjon Akhmadaliev
+Boxing,Lightweight,Individual,Male,Brazil,Robson Conceição,France,Sofiane Oumiha,Cuba,Lázaro Álvarez
+Boxing,Lightweight,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Mongolia,Dorjnyambuugiin Otgondalai
+Boxing,Light welterweight,Individual,Male,Uzbekistan,Fazliddin Gaibnazarov,Azerbaijan,Lorenzo Sotomayor,Russia,Vitaly Dunaytsev
+Boxing,Light welterweight,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Germany,Artem Harutyunyan
+Boxing,Welterweight,Individual,Male,Kazakhstan,Daniyar Yeleussinov,Uzbekistan,Shakhram Giyasov,Morocco,Mohammed Rabii
+Boxing,Welterweight,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,France,Souleymane Cissokho
+Boxing,Middleweight,Individual,Male,Cuba,Arlen López,Uzbekistan,Bektemir Melikuziev,Mexico,Misael Rodríguez
+Boxing,Middleweight,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Azerbaijan,Kamran Shakhsuvarly
+Boxing,Light heavyweight,Individual,Male,Cuba,Julio César La Cruz,Kazakhstan,Adilbek Niyazymbetov,France,Mathieu Bauderlique
+Boxing,Light heavyweight,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,GreatBritain,Joshua Buatsi
+Boxing,Heavyweight,Individual,Male,Russia,Evgeny Tishchenko,Kazakhstan,Vasiliy Levit,Uzbekistan,Rustam Tulaganov
+Boxing,Heavyweight,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Cuba,Erislandy Savón
+Boxing,Super heavyweight,Individual,Male,France,Tony Yoka,GreatBritain,Joe Joyce,Croatia,Filip Hrgovi?
+Boxing,Super heavyweight,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Kazakhstan,Ivan Dychko
+Boxing,Flyweight,Individual,Female,GreatBritain,Nicola Adams,France,Sarah Ourahmoune,China,Ren Cancan
+Boxing,Flyweight,Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Columbia,Ingrit Valencia
+Boxing,Lightweight,Individual,Female,France,Estelle Mossely,China,Yin Junhua,Finland,Mira Potkonen
+Boxing,Lightweight,Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Russia,Anastasia Belyakova
+Boxing,Middleweight,Individual,Female,UnitedStates,Claressa Shields,Netherlands,Nouchka Fontijn,Kazakhstan,Dariga Shakimova
+Boxing,Middleweight,Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,China,Li Qian
+Canoeing-Slalom,Men's C-1,Individual,Male,France,Denis Gargaud Chanut,Slovakia,Matej Be?uš,Japan,Takuya Haneda
+Canoeing-Slalom,Men's C-2,Team,Male,Slovakia,Ladislav Škantár,GreatBritain,David Florence,France,Gauthier Klauss
+Canoeing-Slalom,Men's C-2,Team,Male,Slovakia,Peter Škantár,GreatBritain,Richard Hounslow,France,Matthieu Péché
+Canoeing-Slalom,Men's K-1,Individual,Male,GreatBritain,Joseph Clarke,Slovenia,Peter Kauzer,CzechRepublic,Ji?í Prskavec
+Canoeing-Slalom,Women's K-1,Individual,Female,Spain,Maialen Chourraut,NewZealand,Luuka Jones,Australia,Jessica Fox
+Canoeing-Flatwater,Men's C-1 200 m,Individual,Male,Ukraine,Yuriy Cheban,Azerbaijan,Valentin Demyanenko,Brazil,Isaquias Queiroz
+Canoeing-Flatwater,Men's C-1 1000 m,Individual,Male,Germany,Sebastian Brendel,Brazil,Isaquias Queiroz,Moldova,Serghei Tarnovschi
+Canoeing-Flatwater,Men's C-2 1000 m,Team,Male,Germany,Sebastian Brendel,Brazil,Erlon Silva,Ukraine,Dmytro Ianchuk
+Canoeing-Flatwater,Men's C-2 1000 m,Team,Male,Germany,Jan Vandrey,Brazil,Isaquias Queiroz,Ukraine,Taras Mishchuk
+Canoeing-Flatwater,Men's K-1 200 m,Individual,Male,GreatBritain,Liam Heath,France,Maxime Beaumont,Spain,Saúl Craviotto
+Canoeing-Flatwater,Men's K-1 200 m,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Germany,Ronald Rauhe
+Canoeing-Flatwater,Men's K-1 1000 m,Individual,Male,Spain,Marcus Walz,CzechRepublic,Josef Dostál,Russia,Roman Anoshkin
+Canoeing-Flatwater,Men's K-2 200 m,Team,Male,Spain,Saúl Craviotto,GreatBritain,Liam Heath,Lithuania,Aurimas Lankas
+Canoeing-Flatwater,Men's K-2 200 m,Team,Male,Spain,Cristian Toro,GreatBritain,Jon Schofield,Lithuania,Edvinas Ramanauskas
+Canoeing-Flatwater,Men's K-2 1000 m,Team,Male,Germany,Max Rendschmidt,Serbia,Marko Tomi?evi?,Australia,Ken Wallace
+Canoeing-Flatwater,Men's K-2 1000 m,Team,Male,Germany,Marcus Gross,Serbia,Milenko Zori?,Australia,Lachlan Tame
+Canoeing-Flatwater,Men's K-4 1000 m,Team,Male,Germany,Max Rendschmidt,Slovakia,Denis Myšák,CzechRepublic,Daniel Havel
+Canoeing-Flatwater,Men's K-4 1000 m,Team,Male,Germany,Tom Liebscher,Slovakia,Erik Vl?ek,CzechRepublic,Lukáš Trefil
+Canoeing-Flatwater,Men's K-4 1000 m,Team,Male,Germany,Max Hoff,Slovakia,Juraj Tarr,CzechRepublic,Josef Dostál
+Canoeing-Flatwater,Men's K-4 1000 m,Team,Male,Germany,Marcus Gross,Slovakia,Tibor Linka,CzechRepublic,Jan Št?rba
+Canoeing-Flatwater,Women's K-1 200 m,Individual,Female,NewZealand,Lisa Carrington,Poland,Marta Walczykiewicz,Azerbaijan,Inna Osypenko-Radomska
+Canoeing-Flatwater,Women's K-1 500 m,Individual,Female,Hungary,Danuta Kozák,Denmark,Emma Jørgensen,NewZealand,Lisa Carrington
+Canoeing-Flatwater,Women's K-2 500 m,Team,Female,Hungary,Gabriella Szabó,Germany,Franziska Weber,Poland,Karolina Naja
+Canoeing-Flatwater,Women's K-2 500 m,Team,Female,Hungary,Danuta Kozák,Germany,Tina Dietze,Poland,Beata Miko?ajczyk
+Canoeing-Flatwater,Women's K-4 500 m,Team,Female,Hungary,Gabriella Szabó,Germany,Sabrina Hering,Belarus,Marharyta Makhneva
+Canoeing-Flatwater,Women's K-4 500 m,Team,Female,Hungary,Danuta Kozák,Germany,Franziska Weber,Belarus,Nadzeya Liapeshka
+Canoeing-Flatwater,Women's K-4 500 m,Team,Female,Hungary,Tamara Csipes,Germany,Steffi Kriegerstein,Belarus,Volha Khudzenka
+Canoeing-Flatwater,Women's K-4 500 m,Team,Female,Hungary,Krisztina Fazekas,Germany,Tina Dietze,Belarus,Maryna Litvinchuk
+Cycling-Road_cycling,Men's road race,Individual,Male,Belgium,Greg Van Avermaet,Denmark,Jakob Fuglsang,Poland,Rafa? Majka
+Cycling-Road_cycling,Women's road race,Individual,Female,Netherlands,Anna van der Breggen,Sweden,Emma Johansson,Italy,Elisa Longo Borghini
+Cycling-Road_cycling,Men's time trial,Individual,Male,Switzerland,Fabian Cancellara,Netherlands,Tom Dumoulin,GreatBritain,Chris Froome
+Cycling-Road_cycling,Women's time trial,Individual,Female,UnitedStates,Kristin Armstrong,Russia,Olga Zabelinskaya,Netherlands,Anna van der Breggen
+Cycling-Track_cycling,Men's Keirin,Individual,Male,GreatBritain,Jason Kenny,Netherlands,Matthijs Buchli,Malaysia,Azizulhasni Awang
+Cycling-Track_cycling,Women's Keirin,Individual,Female,Netherlands,Elis Ligtlee,GreatBritain,Becky James,Australia,Anna Meares
+Cycling-Track_cycling,Men's Omnium,Individual,Male,Italy,Elia Viviani,GreatBritain,Mark Cavendish,Denmark,Lasse Norman Hansen
+Cycling-Track_cycling,Women's Omnium,Individual,Female,GreatBritain,Laura Trott,UnitedStates,Sarah Hammer,Belgium,Jolien D'Hoore
+Cycling-Track_cycling,Men's team pursuit,Team,Male,GreatBritain,Ed Clancy,Australia,Alexander Edmondson,Denmark,Lasse Norman Hansen
+Cycling-Track_cycling,Men's team pursuit,Team,Male,GreatBritain,Steven Burke,Australia,Jack Bobridge,Denmark,Niklas Larsen
+Cycling-Track_cycling,Men's team pursuit,Team,Male,GreatBritain,Owain Doull,Australia,Michael Hepburn,Denmark,Frederik Madsen
+Cycling-Track_cycling,Men's team pursuit,Team,Male,GreatBritain,Bradley Wiggins,Australia,Sam Welsford,Denmark,Casper von Folsach
+Cycling-Track_cycling,Men's team pursuit,Team,Male,NoMedal,NoMedal,Australia,Callum Scotson,Denmark,Rasmus Quaade
+Cycling-Track_cycling,Women's team pursuit,Team,Female,GreatBritain,Katie Archibald,UnitedStates,Sarah Hammer,Canada,Allison Beveridge
+Cycling-Track_cycling,Women's team pursuit,Team,Female,GreatBritain,Laura Trott,UnitedStates,Kelly Catlin,Canada,Jasmin Glaesser
+Cycling-Track_cycling,Women's team pursuit,Team,Female,GreatBritain,Elinor Barker,UnitedStates,Chloe Dygert,Canada,Kirsti Lay
+Cycling-Track_cycling,Women's team pursuit,Team,Female,GreatBritain,Joanna Rowsell,UnitedStates,Jennifer Valente,Canada,Georgia Simmerling
+Cycling-Track_cycling,Women's team pursuit,Team,Female,NoMedal,NoMedal,NoMedal,NoMedal,Canada,Laura Brown
+Cycling-Track_cycling,Men's individual sprint,Individual,Male,GreatBritain,Jason Kenny,GreatBritain,Callum Skinner,Russia,Denis Dmitriev
+Cycling-Track_cycling,Women's individual sprint,Individual,Female,Germany,Kristina Vogel,GreatBritain,Becky James,GreatBritain,Katy Marchant
+Cycling-Track_cycling,Men's team sprint,Team,Male,GreatBritain,Philip Hindes,NewZealand,Eddie Dawkins,France,Grégory Baugé
+Cycling-Track_cycling,Men's team sprint,Team,Male,GreatBritain,Jason Kenny,NewZealand,Ethan Mitchell,France,Michaël D'Almeida
+Cycling-Track_cycling,Men's team sprint,Team,Male,GreatBritain,Callum Skinner,NewZealand,Sam Webster,France,François Pervis
+Cycling-Track_cycling,Women's team sprint,Team,Female,China,Gong Jinjie,Russia,Daria Shmeleva,Germany,Miriam Welte
+Cycling-Track_cycling,Women's team sprint,Team,Female,China,Zhong Tianshi,Russia,Anastasia Voynova,Germany,Kristina Vogel
+Cycling-Mountain_biking,Men's cross-country,Individual,Male,Switzerland,Nino Schurter,CzechRepublic,Jaroslav Kulhavý,Spain,Carlos Coloma Nicolas
+Cycling-Mountain_biking,Women's cross-country,Individual,Female,Sweden,Jenny Rissveds,Poland,Maja W?oszczowska,Canada,Catharine Pendrel
+Cycling-BMX,Men,Individual,Male,UnitedStates,Connor Fields,Netherlands,Jelle van Gorkom,Columbia,Carlos Ramirez
+Cycling-BMX,Women,Individual,Female,Columbia,Mariana Pajón,UnitedStates,Alise Post,Venezuela,Stefany Hernandez
+Diving,3 m springboard,Individual,Male,China,Cao Yuan,Netherlands,Jack Laugher,Germany,Patrick Hausding
+Diving,10 m platform,Individual,Male,China,Chen Aisen,Mexico,Germán Sánchez,UnitedStates,David Boudia
+Diving,Synchronized 3 m springboard,Team,Male,GreatBritain,Chris Mears,UnitedStates,Sam Dorman,China,Cao Yuan
+Diving,Synchronized 3 m springboard,Team,Male,GreatBritain,Jack Laugher,UnitedStates,Michael Hixon,China,Qin Kai
+Diving,Synchronized 10 m platform,Team,Male,China,Chen Aisen,UnitedStates,David Boudia,GreatBritain,Tom Daley
+Diving,Synchronized 10 m platform,Team,Male,China,Lin Yue,UnitedStates,Steele Johnson,GreatBritain,Daniel Goodfellow
+Diving,3 m springboard,Individual,Female,China,Shi Tingmao,China,He Zi,Italy,Tania Cagnotto
+Diving,10 m platform,Individual,Female,China,Ren Qian,China,Si Yajie,Canada,Meaghan Benfeito
+Diving,Synchronized 3 m springboard,Team,Female,China,Shi Tingmao,Italy,Tania Cagnotto,Australia,Maddison Keeney
+Diving,Synchronized 3 m springboard,Team,Female,China,Wu Minxia,Italy,Francesca Dallapé,Australia,Anabelle Smith
+Diving,Synchronized 10 m platform,Team,Female,China,Chen Ruolin,Malaysia,Francesca Dallapé,Canada,Meaghan Benfeito
+Diving,Synchronized 10 m platform,Team,Female,China,Liu Huixia,Malaysia,Pandelela Rinong,Canada,Roseline Filion
+Equestrian,Individual dressage,Individual,Female,GreatBritain,Charlotte Dujardin,Germany,Isabell Werth,Germany,Kristina Bröring-Sprehe
+Equestrian,Team dressage,Team,Mixed,Germany,Sönke Rothenberger,GreatBritain,Spencer Wilton,UnitedStates,Allison Brock
+Equestrian,Team dressage,Team,Mixed,Germany,Dorothee Schneider,GreatBritain,Fiona Bigwood,UnitedStates,Kasey Perry-Glass
+Equestrian,Team dressage,Team,Mixed,Germany,Kristina Bröring-Sprehe,GreatBritain,Carl Hester,UnitedStates,Steffen Peters
+Equestrian,Team dressage,Team,Mixed,Germany,Isabell Werth,GreatBritain,Charlotte Dujardin,UnitedStates,Laura Graves
+Equestrian,Individual eventing,Individual,Check,Germany,Michael Jung,France,Astier Nicolas,UnitedStates,Phillip Dutton
+Equestrian,Team eventing,Team,Check,France,Karim Laghouag,Germany,Julia Krajewski,Australia,Shane Rose
+Equestrian,Team eventing,Team,Check,France,Thibaut Vallette,Germany,Sandra Auffarth,Australia,Stuart Tinney
+Equestrian,Team eventing,Team,Check,France,Mathieu Lemoine,Germany,Ingrid Klimke,Australia,Sam Griffiths
+Equestrian,Team eventing,Team,Check,France,Astier Nicolas,Germany,Michael Jung,Australia,Chris Burton
+Equestrian,Individual jumping,Individual,Check,GreatBritain,Nick Skelton,France,Peder Fredricson,Canada,Eric Lamaze
+Equestrian,Team jumping,Team,Check,France,Philippe Rozier,UnitedStates,Kent Farrington,Germany,Christian Ahlmann
+Equestrian,Team jumping,Team,Check,France,Kevin Staut,UnitedStates,Lucy Davis,Germany,Meredith Michaels-Beerbaum
+Equestrian,Team jumping,Team,Check,France,Roger-Yves Bost,UnitedStates,McLain Ward,Germany,Daniel Deusser
+Equestrian,Team jumping,Team,Check,France,Pénélope Leprevost,UnitedStates,Elizabeth Madden,Germany,Ludger Beerbaum
+Fencing,Individual épée,Individual,Male,SouthKorea,Park Sang-young,Hungary,Géza Imre,France,Gauthier Grumier
+Fencing,Team épée,Team,Male,France,Gauthier Grumier,Italy,Enrico Garozzo,Hungary,Gábor Boczkó
+Fencing,Team épée,Team,Male,France,Yannick Borel,Italy,Marco Fichera,Hungary,Géza Imre
+Fencing,Team épée,Team,Male,France,Daniel Jérent,Italy,Paolo Pizzo,Hungary,András Rédli
+Fencing,Team épée,Team,Male,France,Jean-Michel Lucenay,Italy,Andrea Santarelli,Hungary,Péter Somfai
+Fencing,Individual foil,Individual,Male,Italy,Daniele Garozzo,UnitedStates,Alexander Massialas,Russia,Timur Safin
+Fencing,Team foil,Team,Male,Russia,Timur Safin,Germany,Jérémy Cadot,UnitedStates,Miles Chamley-Watson
+Fencing,Team foil,Team,Male,Russia,Artur Akhmatkhuzin,Germany,Enzo Lefort,UnitedStates,Race Imboden
+Fencing,Team foil,Team,Male,Russia,Aleksey Cheremisinov,Germany,Erwan Le Péchoux,UnitedStates,Alexander Massialas
+Fencing,Team foil,Team,Male,NoMedal,NoMedal,Germany,Jean-Paul Tony Helissey,UnitedStates,Gerek Meinhardt
+Fencing,Individual sabre,Individual,Male,Hungary,Áron Szilágyi,UnitedStates,Daryl Homer,SouthKorea,Kim Jung-hwan
+Fencing,Individual épée,Individual,Female,Hungary,Emese Szász,Italy,Rossella Fiamingo,China,Sun Yiwen
+Fencing,Team épée,Team,Female,Romania,Loredana Dinu,China,Hao Jialu,Russia,Olga Kochneva
+Fencing,Team épée,Team,Female,Romania,Simona Gherman,China,Sun Yiwen,Russia,Violetta Kolobova
+Fencing,Team épée,Team,Female,Romania,Simona Pop,China,Sun Yujie,Russia,Tatiana Logunova
+Fencing,Team épée,Team,Female,Romania,Ana Maria Popescu,China,Xu Anqi,Russia,Lyubov Shutova
+Fencing,Individual foil,Team,Female,Russia,Inna Deriglazova,Italy,Elisa Di Francisca,Tunisia,Inès Boubakri
+Fencing,Individual sabre,Individual,Female,Russia,Yana Egorian,Russia,Sofiya Velikaya,Ukraine,Olha Kharlan
+Fencing,Team sabre,Team,Female,Russia,Sofia Velikaya,Ukraine,Olha Kharlan,UnitedStates,Monica Aksamit
+Fencing,Team sabre,Team,Female,Russia,Yana Egorian,Ukraine,Olena Kravatska,UnitedStates,Ibtihaj Muhammad
+Fencing,Team sabre,Team,Female,Russia,Ekaterina Dyachenko,Ukraine,Alina Komashchuk,UnitedStates,Dagmara Wozniak
+Fencing,Team sabre,Team,Female,Russia,Yuliya Gavrilova,Ukraine,Olena Voronina,UnitedStates,Mariel Zagunis
+Swimming,50 m freestyle,Individual,Male,UnitedStates,Anthony Ervin,France,Florent Manaudou,UnitedStates,Nathan Adrian
+Swimming,100 m freestyle,Individual,Male,Australia,Kyle Chalmers,Belgium,Pieter Timmers,UnitedStates,Nathan Adrian
+Swimming,200 m freestyle,Individual,Male,China,Sun Yang,SouthAfrica,Chad le Clos,UnitedStates,Conor Dwyer
+Swimming,400 m freestyle,Individual,Male,Australia,Mack Horton,China,Sun Yang,Italy,Gabriele Detti
+Swimming,1500 m freestyle,Individual,Male,Italy,Gregorio Paltrinieri,UnitedStates,Connor Jaeger,Italy,Gabriele Detti
+Swimming,100 m backstroke,Individual,Male,UnitedStates,Ryan Murphy,China,Xu Jiayu,UnitedStates,David Plummer
+Swimming,200 m backstroke,Individual,Male,UnitedStates,Ryan Murphy,Australia,Mitch Larkin,Russia,Evgeny Rylov
+Swimming,100 m breaststroke,Individual,Male,GreatBritain,Adam Peaty,SouthAfrica,Cameron van der Burgh,UnitedStates,Cody Miller
+Swimming,200 m breaststroke,Individual,Male,Kazakhstan,Dmitriy Balandin,UnitedStates,Josh Prenot,Russia,Anton Chupkov
+Swimming,100 m butterfly,Individual,Male,Singapore,Joseph Schooling,UnitedStates,Michael Phelps,NoMedal,NoMedal
+Swimming,100 m butterfly,Individual,Male,NoMedal,NoMedal,SouthAfrica,Chad le Clos,NoMedal,NoMedal
+Swimming,100 m butterfly,Individual,Male,NoMedal,NoMedal,Hungary,László Cseh,NoMedal,NoMedal
+Swimming,200 m butterfly,Individual,Male,UnitedStates,Michael Phelps,Japan,Masato Sakai,Hungary,Tamás Kenderesi
+Swimming,200 m individual medley,Individual,Male,UnitedStates,Michael Phelps,Japan,Kosuke Hagino,China,Wang Shun
+Swimming,400 m individual medley,Individual,Male,Japan,Kosuke Hagino,UnitedStates,Chase Kalisz,Japan,Daiya Seto
+Swimming,4×100 m freestyle relay,Team,Male,UnitedStates,Caeleb Dressel,France,Mehdy Metella,Australia,James Roberts
+Swimming,4×100 m freestyle relay,Team,Male,UnitedStates,Michael Phelps,France,Fabien Gilot,Australia,Kyle Chalmers
+Swimming,4×100 m freestyle relay,Team,Male,UnitedStates,Ryan Held,France,Florent Manaudou,Australia,James Magnussen
+Swimming,4×100 m freestyle relay,Team,Male,UnitedStates,Nathan Adrian,France,Jérémy Stravius,Australia,Cameron McEvoy
+Swimming,4×100 m freestyle relay,Team,Male,UnitedStates,Jimmy Feigen,France,Clément Mignon,Australia,Matthew Abood
+Swimming,4×100 m freestyle relay,Team,Male,UnitedStates,Blake Pieroni,France,William Meynard,NoMedal,NoMedal
+Swimming,4×100 m freestyle relay,Team,Male,UnitedStates,Anthony Ervin,NoMedal,NoMedal,NoMedal,NoMedal
+Swimming,4×200 m freestyle relay,Team,Male,UnitedStates,Conor Dwyer,GreatBritain,Stephen Milne,Japan,Kosuke Hagino 
+Swimming,4×200 m freestyle relay,Team,Male,UnitedStates,Townley Haas,GreatBritain,Duncan Scott,Japan,Naito Ehara
+Swimming,4×200 m freestyle relay,Team,Male,UnitedStates,Ryan Lochte,GreatBritain,Daniel Wallace,Japan,Yuki Kobori
+Swimming,4×200 m freestyle relay,Team,Male,UnitedStates,Michael Phelps,GreatBritain,James Guy,Japan,Takeshi Matsuda
+Swimming,4×200 m freestyle relay,Team,Male,UnitedStates,Clark Smith,GreatBritain,Robbie Renwick,NoMedal,NoMedal
+Swimming,4×200 m freestyle relay,Team,Male,UnitedStates,Jack Conger,NoMedal,NoMedal,NoMedal,NoMedal
+Swimming,4×200 m freestyle relay,Team,Male,UnitedStates,Gunnar Bentz,NoMedal,NoMedal,NoMedal,NoMedal
+Swimming,4×100 m medley relay,Team,Male,UnitedStates,Ryan Murphy,GreatBritain,Chris Walker-Hebborn,Australia,Mitch Larkin
+Swimming,4×100 m medley relay,Team,Male,UnitedStates,Cody Miller,GreatBritain,Adam Peaty,Australia,Jack Packard
+Swimming,4×100 m medley relay,Team,Male,UnitedStates,Michael Phelps,GreatBritain,James Guy,Australia,David Morgon
+Swimming,4×100 m medley relay,Team,Male,UnitedStates,Nathan Adrian,GreatBritain,Duncan Scott,Australia,Kyle Chalmers
+Swimming,4×100 m medley relay,Team,Male,UnitedStates,David Plummer,NoMedal,NoMedal,Australia,Cameron McEvoy
+Swimming,4×100 m medley relay,Team,Male,UnitedStates,Kevin Cordes,NoMedal,NoMedal,NoMedal,NoMedal
+Swimming,4×100 m medley relay,Team,Male,UnitedStates,Tom Shields,NoMedal,NoMedal,NoMedal,NoMedal
+Swimming,4×100 m medley relay,Team,Male,UnitedStates,Caeleb Dressel,NoMedal,NoMedal,NoMedal,NoMedal
+Swimming,10 km open water,Individual,Male,Netherlands,Ferry Weertman,Greece,Spyridon Gianniotis,France,Marc-Antoine Olivier
+Swimming,50 m freestyle,Individual,Female,Denmark,Pernille Blume,UnitedStates,Simone Manuel,Belarus,Aliaksandra Herasimenia
+Swimming,100 m freestyle,Individual,Female,UnitedStates,Simone Manuel,NoMedal,NoMedal,Sweden,Sarah Sjöström
+Swimming,100 m freestyle,Individual,Female,Canada,Penny Oleksiak,NoMedal,NoMedal,NoMedal,NoMedal
+Swimming,200 m freestyle,Individual,Female,UnitedStates,Katie Ledecky,Sweden,Sarah Sjöström,Australia,Emma McKeon
+Swimming,400 m freestyle,Individual,Female,UnitedStates,Katie Ledecky,GreatBritain,Jazmin Carlin,UnitedStates,Leah Smith
+Swimming,800 m freestyle,Individual,Female,UnitedStates,Katie Ledecky,GreatBritain,Jazmin Carlin,Hungary,Boglárka Kapás
+Swimming,100 m backstroke,Individual,Female,Hungary,Katinka Hosszú,UnitedStates,Kathleen Baker,Canada,Kylie Masse
+Swimming,100 m backstroke,Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,China,Fu Yuanhui
+Swimming,200 m backstroke,Individual,Female,UnitedStates,Maya DiRado,Hungary,Katinka Hosszú,Canada,Hilary Caldwell
+Swimming,100 m breaststroke,Individual,Female,UnitedStates,Lilly King,Russia,Yulia Efimova,UnitedStates,Katie Meili
+Swimming,200 m breaststroke,Individual,Female,Japan,Rie Kaneto,Russia,Yulia Efimova,China,Shi Jinglin
+Swimming,100 m butterfly,Individual,Female,Sweden,Sarah Sjöström,Canada,Penny Oleksiak,UnitedStates,Dana Vollmer
+Swimming,200 m butterfly,Individual,Female,Spain,Mireia Belmonte García,Australia,Madeline Groves,Japan,Natsumi Hoshi
+Swimming,200 m individual medley,Individual,Female,Hungary,Katinka Hosszú,GreatBritain,Siobhan-Marie O'Connor,UnitedStates,Maya DiRado
+Swimming,400 m individual medley,Individual,Female,Hungary,Katinka Hosszú,UnitedStates, Maya DiRado,Spain,Mireia Belmonte García
+Swimming,4×100 m freestyle relay,Team,Female,Australia,Emma McKeon,UnitedStates,Simone Manuel,Canada,Sandrine Mainville
+Swimming,4×100 m freestyle relay,Team,Female,Australia,Brittney Elmslie,UnitedStates,Abbey Weitzeil,Canada,Chantal Van Landeghem
+Swimming,4×100 m freestyle relay,Team,Female,Australia,Bronte Campbell,UnitedStates,Dana Vollmer,Canada,Taylor Ruck
+Swimming,4×100 m freestyle relay,Team,Female,Australia,Cate Campbell,UnitedStates,Katie Ledecky,Canada,Penny Oleksiak
+Swimming,4×100 m freestyle relay,Team,Female,Australia,Madison Wilson,UnitedStates,Amanda Weir,Canada,Michelle Williams
+Swimming,4×100 m freestyle relay,Team,Female,NoMedal,NoMedal,UnitedStates,Lia Neal,NoMedal,NoMedal
+Swimming,4×100 m freestyle relay,Team,Female,NoMedal,NoMedal,UnitedStates,Allison Schmitt,NoMedal,NoMedal
+Swimming,4×200 m freestyle relay,Team,Female,UnitedStates,Allison Schmitt,Australia,Leah Neale,Canada,Katerine Savard
+Swimming,4×200 m freestyle relay,Team,Female,UnitedStates,Leah Smith,Australia,Emma McKeon ,Canada,Taylor Ruck
+Swimming,4×200 m freestyle relay,Team,Female,UnitedStates,Maya DiRado,Australia,Bronte Barratt,Canada,Brittany MacLean
+Swimming,4×200 m freestyle relay,Team,Female,UnitedStates,Katie Ledecky,Australia,Tamsin Cook,Canada,Penny Oleksiak
+Swimming,4×200 m freestyle relay,Team,Female,UnitedStates,Missy Franklin,Australia,Jessica Ashwood,Canada,Kennedy Goss
+Swimming,4×200 m freestyle relay,Team,Female,UnitedStates,Melanie Margalis,NoMedal,NoMedal,NoMedal,Emily Overholt
+Swimming,4×200 m freestyle relay,Team,Female,UnitedStates,Cierra Runge,NoMedal,NoMedal,NoMedal,NoMedal
+Swimming,4×100 m medley relay,Team,Female,UnitedStates,Kathleen Baker,Australia,Emily Seebohm,Denmark,Mie Nielsen
+Swimming,4×100 m medley relay,Team,Female,UnitedStates,Lilly King,Australia,Taylor McKeown,Denmark,Rikke Møller Pedersen
+Swimming,4×100 m medley relay,Team,Female,UnitedStates,Dana Vollmer,Australia,Emma McKeon,Denmark,Jeanette Ottesen
+Swimming,4×100 m medley relay,Team,Female,UnitedStates,Simone Manuel,Australia,Cate Campbell,Denmark,Pernille Blume
+Swimming,4×100 m medley relay,Team,Female,UnitedStates,Olivia Smoliga,Australia,Madison Wilson,NoMedal,NoMedal
+Swimming,4×100 m medley relay,Team,Female,UnitedStates,Katie Meili,Australia,Madeline Groves,NoMedal,NoMedal
+Swimming,4×100 m medley relay,Team,Female,UnitedStates,Kelsi Worrell,Australia,Brittany Elmslie,NoMedal,NoMedal
+Swimming,4×100 m medley relay,Team,Female,UnitedStates,Abbey Weitzeil,NoMedal,NoMedal,NoMedal,NoMedal
+Swimming,10 km open water,Individual,Female,Netherlands,Sharon van Rouwendaal,Italy,Rachele Bruni,Brazil,Poliana Okimoto
+Swimming,Synchronized swimming-Duet,Team,Mixed,Russia,Natalia Ishchenko,China,Huang Xuechen,Japan,Yukiko Inui
+Swimming,Synchronized swimming-Duet,Team,Mixed,Russia,Svetlana Romashina,China,Sun Wenyan,Japan,Risako Mitsui
+Swimming,Synchronized swimming-Team,Team,Mixed,Russia,Vlada Chigireva,China,Gu Xiao,Japan,Aika Hakoyama
+Swimming,Synchronized swimming-Team,Team,Mixed,Russia,Natalia Ishchenko,China,Guo Li,Japan,Yukiko Inui
+Swimming,Synchronized swimming-Team,Team,Mixed,Russia,Svetlana Kolesnichenko,China,Li Xiaolu,Japan,Kei Marumo
+Swimming,Synchronized swimming-Team,Team,Mixed,Russia,Aleksandra Patskevich,China,Liang Xinping,Japan,Risako Mitsui
+Swimming,Synchronized swimming-Team,Team,Mixed,Russia,Svetlana Romashina,China,Sun Wenyan,Japan,Kanami Nakamaki
+Swimming,Synchronized swimming-Team,Team,Mixed,Russia,Alla Shishkina,China,Tang Mengni,Japan,Mai Nakamura
+Swimming,Synchronized swimming-Team,Team,Mixed,Russia,Maria Shurochkina,China,Yin Chengxin,Japan,Kano Omata
+Swimming,Synchronized swimming-Team,Team,Mixed,Russia,Gelena Topilina,China,Zeng Zhen,Japan,Kurumi Yoshida
+Swimming,Synchronized swimming-Team,Team,Mixed,Russia,Elena Prokofyeva,China,Huang Xuechen,Japan,Aiko Hayashi
+Aquatics,Water Polo,Team,Male,Serbia,Gojko Pijetlovi?,Croatia,Josip Pavi?,Italy,Stefano Tempesti
+Aquatics,Water Polo,Team,Male,Serbia,Dušan Mandi?,Croatia,Damir Buri?,Italy,Francesco Di Fulvio
+Aquatics,Water Polo,Team,Male,Serbia,Živko Goci?,Croatia,Antonio Petkovi?,Italy,Niccolò Gitto
+Aquatics,Water Polo,Team,Male,Serbia,Sava Ran?elovi?,Croatia,Luka Lon?ar,Italy,Pietro Figlioli
+Aquatics,Water Polo,Team,Male,Serbia,Miloš ?uk,Croatia,Maro Jokovi?,Italy,Alessandro Velotto
+Aquatics,Water Polo,Team,Male,Serbia,Duško Pijetlovi?,Croatia,Luka Buki?,Italy,Michael Bodegas
+Aquatics,Water Polo,Team,Male,Serbia,Slobodan Niki?,Croatia,Xavier García,Italy,Andrea Fondelli
+Aquatics,Water Polo,Team,Male,Serbia,Milan Aleksi?,Croatia,Andro Bušlje,Italy,Valentino Gallo
+Aquatics,Water Polo,Team,Male,Serbia,Nikola Jakši?,Croatia,Sandro Sukno,Italy,Christian Presciutti
+Aquatics,Water Polo,Team,Male,Serbia,Filip Filipovi?,Croatia,Ivan Krapi?,Italy,Nicholas Presciutti
+Aquatics,Water Polo,Team,Male,Serbia,Andrija Prlainovi?,Croatia,An?elo Šetka,Italy,Matteo Aicardi
+Aquatics,Water Polo,Team,Male,Serbia,Stefan Mitrovi?,Croatia,Marko Macan,Italy,Alessandro Nora
+Aquatics,Water Polo,Team,Male,Serbia,Branislav Mitrovi?,Croatia,Marko Bija?,Italy,Marco Del Lungo
+Aquatics,Water Polo,Team,Female,UnitedStates,Samantha Hill,Italy,Giulia Gorlero,Russia,Anna Ustyukhina
+Aquatics,Water Polo,Team,Female,UnitedStates,Madeline Musselmann,Italy,Chiara Tabani,Russia,Maria Borisova
+Aquatics,Water Polo,Team,Female,UnitedStates,Melissa Seidemann,Italy,Arianna Garibotti,Russia,Ekaterina Prokofyeva
+Aquatics,Water Polo,Team,Female,UnitedStates,Rachel Fattal,Italy,Elisa Queirolo,Russia,Elvina Karimova
+Aquatics,Water Polo,Team,Female,UnitedStates,Aria Fischer,Italy,Federica Radicchi,Russia,Nadezhda Fedotova
+Aquatics,Water Polo,Team,Female,UnitedStates,Maggie Steffens,Italy,Rosaria Aiello,Russia,Olga Belova
+Aquatics,Water Polo,Team,Female,UnitedStates,Courtney Mathewson,Italy,Tania Di Mario,Russia,Ekaterina Lisunova
+Aquatics,Water Polo,Team,Female,UnitedStates,Kiley Neushul,Italy,Roberta Bianconi,Russia,Anastasia Simanovich
+Aquatics,Water Polo,Team,Female,UnitedStates,Caroline Clark,Italy,Giulia Enrica Emmolo,Russia,Anna Timofeeva
+Aquatics,Water Polo,Team,Female,UnitedStates,Kaleigh Gilchrist,Italy,Francesca Pomeri,Russia,Evgenia Soboleva
+Aquatics,Water Polo,Team,Female,UnitedStates,Makenzie Fischer,Italy,Aleksandra Cotti,Russia,Evgeniya Ivanova
+Aquatics,Water Polo,Team,Female,UnitedStates,Kami Craig,Italy,Teresa Frassinetti,Russia,Anna Grineva
+Aquatics,Water Polo,Team,Female,UnitedStates,Ashleigh Johnson,Italy,Laura Teani,Russia,Anna Karnaukh
+Field Hockey,Hockey,Team,Male,Argentina,Juan Manuel Vivaldi,Belgium,Arthur Van Doren,Germany,Nicolas Jacobi
+Field Hockey,Hockey,Team,Male,Argentina,Gonzalo Peillat,Belgium,John-John Dohmen,Germany,Matthias Müller
+Field Hockey,Hockey,Team,Male,Argentina,Juan Ignacio Gilardi,Belgium,Florent van Aubel,Germany,Linus Butt
+Field Hockey,Hockey,Team,Male,Argentina,Pedro Ibarra,Belgium,Sebastien Dockier,Germany,Martin Häner
+Field Hockey,Hockey,Team,Male,Argentina,Facundo Callioni,Belgium,Cédric Charlier,Germany,Moritz Trompertz
+Field Hockey,Hockey,Team,Male,Argentina,Lucas Rey,Belgium,Gauthier Boccard,Germany,Mats Grambusch
+Field Hockey,Hockey,Team,Male,Argentina,Matías Paredes,Belgium,Emmanuel Stockbroekx,Germany,Christopher Wesley
+Field Hockey,Hockey,Team,Male,Argentina,Joaquín Menini,Belgium,Thomas Briels,Germany,Timm Herzbruch
+Field Hockey,Hockey,Team,Male,Argentina,Lucas Vila,Belgium,Felix Denayer,Germany,Tobias Hauke
+Field Hockey,Hockey,Team,Male,Argentina,Luca Masso,Belgium,Vincent Vanasch,Germany,Tom Grambusch
+Field Hockey,Hockey,Team,Male,Argentina,Ignacio Ortiz,Belgium,Simon Gougnard,Germany,Christopher Rühr
+Field Hockey,Hockey,Team,Male,Argentina,Juan Martín López,Belgium,Loïck Luypaert,Germany,Martin Zwicker
+Field Hockey,Hockey,Team,Male,Argentina,Juan Manuel Saladino,Belgium,Tom Boon,Germany,Moritz Fürste
+Field Hockey,Hockey,Team,Male,Argentina,Isidoro Ibarra,Belgium,Jérôme Truyens,Germany,Florian Fuchs
+Field Hockey,Hockey,Team,Male,Argentina,Matías Rey,Belgium,Elliot Van Strydonck,Germany,Timur Oruz
+Field Hockey,Hockey,Team,Male,Argentina,Manuel Brunet,Belgium,Tanguy Cosyns,Germany,Niklas Wellen
+Field Hockey,Hockey,Team,Male,Argentina,Agustín Mazzilli,NoMedal,NoMedal,NoMedal,NoMedal
+Field Hockey,Hockey,Team,Male,Argentina,Lucas Rossi,NoMedal,NoMedal,NoMedal,NoMedal
+Field Hockey,Hockey,Team,Female,GreatBritain,Maddie Hinch,Netherlands,Joyce Sombroek,Germany,Nike Lorenz
+Field Hockey,Hockey,Team,Female,GreatBritain,Laura Unsworth,Netherlands,Xan de Waard,Germany,Selin Oruz
+Field Hockey,Hockey,Team,Female,GreatBritain,Crista Cullen,Netherlands,Kitty van Male,Germany,Anne Schröder
+Field Hockey,Hockey,Team,Female,GreatBritain,Hannah Macleod,Netherlands,Laurien Leurink,Germany,Lisa Schütze
+Field Hockey,Hockey,Team,Female,GreatBritain,Georgie Twigg,Netherlands,Willemijn Bos,Germany,Charlotte Stapenhorst
+Field Hockey,Hockey,Team,Female,GreatBritain,Helen Richardson-Walsh,Netherlands,Marloes Keetels,Germany,Katharina Otte
+Field Hockey,Hockey,Team,Female,GreatBritain,Susannah Townsend,Netherlands,Carlien Dirkse van den Heuvel,Germany,Janne Müller-Wieland
+Field Hockey,Hockey,Team,Female,GreatBritain,Kate Richardson-Walsh,Netherlands,Kelly Jonker,Germany,Hannah Krüger
+Field Hockey,Hockey,Team,Female,GreatBritain,Sam Quek,Netherlands,Maria Verschoor,Germany,Jana Teschke
+Field Hockey,Hockey,Team,Female,GreatBritain,Alex Danson,Netherlands,Lidewij Welten,Germany,Lisa Altenburg
+Field Hockey,Hockey,Team,Female,GreatBritain,Giselle Ansley,Netherlands,Caia van Maasakker,Germany,Franzisca Hauke
+Field Hockey,Hockey,Team,Female,GreatBritain,Sophie Bray,Netherlands,Maartje Paumen,Germany,Cécile Pieper
+Field Hockey,Hockey,Team,Female,GreatBritain,Hollie Webb,Netherlands,Naomi van As,Germany,Marie Mävers
+Field Hockey,Hockey,Team,Female,GreatBritain,Shona McCallin,Netherlands,Ellen Hoog,Germany,Annika Sprink
+Field Hockey,Hockey,Team,Female,GreatBritain,Lily Owsley,Netherlands,Margot van Geffen,Germany,Julia Müller
+Field Hockey,Hockey,Team,Female,GreatBritain,Nicola White,Netherlands,Eva de Goede,Germany,Pia-Sophie Oldhafer
+Field Hockey,Hockey,Team,Female,NoMedal,NoMedal,NoMedal,NoMedal,Germany,Kristina Reynolds
+Football,Football,Team,Male,Brazil,Weverton,Germany,Timo Horn,Nigeria,Daniel Akpeyi
+Football,Football,Team,Male,Brazil,Zeca,Germany,Jeremy Toljan,Nigeria,Muenfuh Sincere
+Football,Football,Team,Male,Brazil,Rodrigo Caio,Germany,Lukas Klostermann,Nigeria,Kingsley Madu
+Football,Football,Team,Male,Brazil,Marquinhos,Germany,Matthias Ginter,Nigeria,Shehu Abdullahi
+Football,Football,Team,Male,Brazil,Renato Augusto,Germany,Niklas Süle,Nigeria,Saturday Erimuya
+Football,Football,Team,Male,Brazil,Douglas Santos,Germany,Sven Bender,Nigeria,William Troost-Ekong
+Football,Football,Team,Male,Brazil,Luan,Germany,Max Meyer,Nigeria,Aminu Umar
+Football,Football,Team,Male,Brazil,Rafinha,Germany,Lars Bender,Nigeria,Oghenekaro Etebo
+Football,Football,Team,Male,Brazil,Gabriel,Germany,Davie Selke,Nigeria,Imoh Ezekiel
+Football,Football,Team,Male,Brazil,Neymar,Germany,Leon Goretzka,Nigeria,John Obi Mikel
+Football,Football,Team,Male,Brazil,Gabriel Jesus,Germany,Julian Brandt,Nigeria,Junior Ajayi
+Football,Football,Team,Male,Brazil,Walace,Germany,Jannik Huth,Nigeria,Popoola Saliu
+Football,Football,Team,Male,Brazil,William,Germany,Philipp Max,Nigeria,Umar Sadiq
+Football,Football,Team,Male,Brazil,Luan Garcia,Germany,Robert Bauer,Nigeria,Azubuike Okechukwu
+Football,Football,Team,Male,Brazil,Rodrigo Dourado,Germany,Max Christiansen,Nigeria,Ndifreke Udo
+Football,Football,Team,Male,Brazil,Thiago Maia,Germany,Grischa Prömel,Nigeria,Stanley Amuzie
+Football,Football,Team,Male,Brazil,Felipe Anderson,Germany,Serge Gnabry,Nigeria,Usman Mohammed
+Football,Football,Team,Male,Brazil,Uilson,Germany,Nils Petersen,Nigeria,Emmanuel Daniel
+Football,Football,Team,Male,NoMedal,NoMedal,Germany,Eric Oelschlägel,NoMedal,NoMedal
+Football,Football,Team,Female,Germany,Almuth Schult,Sweden,Jonna Andersson,Canada,Stephanie Labbé
+Football,Football,Team,Female,Germany,Josephine Henning,Sweden,Emilia Appelqvist,Canada,Allysha Chapman
+Football,Football,Team,Female,Germany,Saskia Bartusiak,Sweden,Kosovare Asllani,Canada,Kadeisha Buchanan
+Football,Football,Team,Female,Germany,Leonie Maier,Sweden,Emma Berglund,Canada,Shelina Zadorsky
+Football,Football,Team,Female,Germany,Annike Krahn,Sweden,Stina Blackstenius,Canada,Rebecca Quinn
+Football,Football,Team,Female,Germany,Simone Laudehr,Sweden,Hilda Carlén,Canada,Deanne Rose
+Football,Football,Team,Female,Germany,Melanie Behringer,Sweden,Lisa Dahlkvist,Canada,Rhian Wilkinson
+Football,Football,Team,Female,Germany,Lena Goeßling,Sweden,Magdalena Ericsson,Canada,Diana Matheson
+Football,Football,Team,Female,Germany,Alexandra Popp,Sweden,Nilla Fischer,Canada,Josée Bélanger
+Football,Football,Team,Female,Germany,Dzsenifer Marozsán,Sweden,Pauline Hammarlund,Canada,Ashley Lawrence
+Football,Football,Team,Female,Germany,Anja Mittag,Sweden,Sofia Jakobsson,Canada,Desiree Scott
+Football,Football,Team,Female,Germany,Tabea Kemme,Sweden,Hedvig Lindahl,Canada,Christine Sinclair
+Football,Football,Team,Female,Germany,Sara Däbritz,Sweden,Fridolina Rolfö,Canada,Sophie Schmidt
+Football,Football,Team,Female,Germany,Babett Peter,Sweden,Elin Rubensson,Canada,Melissa Tancredi
+Football,Football,Team,Female,Germany,Mandy Islacker,Sweden,Jessica Samuelsson,Canada,Nichelle Prince
+Football,Football,Team,Female,Germany,Melanie Leupolz,Sweden,Lotta Schelin,Canada,Janine Beckie
+Football,Football,Team,Female,Germany,Isabel Kerschowski,Sweden,Caroline Seger,Canada,Jessie Fleming
+Football,Football,Team,Female,Germany,Laura Benkarth,Sweden,Linda Sembrant,Canada,Sabrina D'Angelo
+Football,Football,Team,Female,Germany,Svenja Huth,Sweden,Olivia Schough,NoMedal,NoMedal
+Golf,Men's individual,Individual,Male,GreatBritain,Justin Rose,Sweden,Henrik Stenson,UnitedStates,Matt Kuchar
+Golf,Women's individual,Individual,Female,SouthKorea,Inbee Park,NewZealand,Lydia Ko,China,Shanshan Feng
+Gymnastics,Artistic gymnastics,Team,Male,Japan,Kenz? Shirai,Russia,Denis Ablyazin,China,Deng Shudi
+Gymnastics,Artistic gymnastics,Team,Male,Japan,Yusuke Tanaka,Russia,David Belyavskiy,China,Lin Chaopan
+Gymnastics,Artistic gymnastics,Team,Male,Japan,Koji Yamamuro,Russia,Ivan Stretovich,China,Liu Yang
+Gymnastics,Artistic gymnastics,Team,Male,Japan,K?hei Uchimura,Russia,Nikolai Kuksenkov,China,You Hao
+Gymnastics,Artistic gymnastics,Team,Male,Japan,Ry?hei Kat?,Russia,Nikita Nagornyy,China,Zhang Chenglong
+Gymnastics,Individual all-around,Individual,Male,Japan,K?hei Uchimura,Ukraine,Oleg Vernyayev,GreatBritain,Max Whitlock
+Gymnastics,Floor exercise,Individual,Male,GreatBritain,Max Whitlock,Brazil,Diego Hypólito,Brazil,Arthur Mariano
+Gymnastics,Pommel horse,Individual,Male,GreatBritain,Max Whitlock,GreatBritain,Louis Smith,UnitedStates,Alexander Naddour
+Gymnastics,Rings,Individual,Male,Greece,Eleftherios Petrounias,Brazil,Arthur Zanetti,Russia,Denis Ablyazin
+Gymnastics,Vault,Individual,Male,NorthKorea,Ri Se-gwang,Russia,Denis Ablyazin,Japan,Kenz? Shirai
+Gymnastics,Parallel bars,Individual,Male,Ukraine,Oleg Vernyayev,UnitedStates,Danell Leyva,Russia,David Belyavskiy
+Gymnastics,Horizontal bar,Individual,Male,Germany,Fabian Hambüchen,UnitedStates,Danell Leyva,GreatBritain,Nile Wilson
+Gymnastics,Team all-around,Team,Female,UnitedStates,Simone Biles,Russia,Angelina Melnikova,China,Fan Yilin
+Gymnastics,Team all-around,Team,Female,UnitedStates,Gabby Douglas,Russia,Aliya Mustafina,China,Mao Yi
+Gymnastics,Team all-around,Team,Female,UnitedStates,Laurie Hernandez,Russia,Maria Paseka,China,Shang Chunsong
+Gymnastics,Team all-around,Team,Female,UnitedStates,Madison Kocian,Russia,Daria Spiridonova,China,Tan Jiaxin
+Gymnastics,Team all-around,Team,Female,UnitedStates,Aly Raisman,Russia,Seda Tutkhalyan,China,Wang Yan
+Gymnastics,Individual all-around,Individual,Female,UnitedStates,Simone Biles,UnitedStates,Aly Raisman,Russia,Aliya Mustafina
+Gymnastics,Vault,Individual,Female,UnitedStates,Simone Biles,Russia,Maria Paseka,Switzerland,Giulia Steingruber
+Gymnastics,Uneven bars,Individual,Female,Russia,Aliya Mustafina,UnitedStates,Madison Kocian,Germany,Sophie Scheder
+Gymnastics,Balance beam,Individual,Female,Netherlands,Sanne Wevers,UnitedStates,Laurie Hernandez,UnitedStates,Simone Biles
+Gymnastics,Floor exercise,Individual,Female,UnitedStates,Simone Biles,UnitedStates,Aly Raisman,GreatBritain,Amy Tinkler
+Gymnastics,Rhythmic gymnastics - Individual all-around,Individual,Check,Russia,Margarita Mamun,Russia,Yana Kudryavtseva,Ukraine,Ganna Rizatdinova
+Gymnastics,Rhythmic gymnastics - Group all-around,Team,Check,Russia,Vera Biryukova,Spain,Sandra Aguilar,Bulgaria,Reneta Kamberova
+Gymnastics,Rhythmic gymnastics - Group all-around,Team,Check,Russia,Anastasia Bliznyuk,Spain,Artemi Gavezou,Bulgaria,Lyubomira Kazanova
+Gymnastics,Rhythmic gymnastics - Group all-around,Team,Check,Russia,Anastasia Maksimova,Spain,Elena López,Bulgaria,Mihaela Maevska-Velichkova
+Gymnastics,Rhythmic gymnastics - Group all-around,Team,Check,Russia,Anastasiia Tatareva,Spain,Lourdes Mohedano,Bulgaria,Tsvetelina Naydenova
+Gymnastics,Rhythmic gymnastics - Group all-around,Team,Check,Russia,Maria Tolkacheva,Spain,Alejandra Quereda,Bulgaria,Hristiana Todorova
+Gymnastics,Trampoline,Individual,Male,Belarus,Uladzislau Hancharou,China,Dong Dong,China,Gao Lei
+Gymnastics,Trampoline,Individual,Female,Canada,Rosie MacLennan,GreatBritain,Bryony Page,China,Li Dan
+Handball,Handball,Team,Male,Denmark,Niklas Landin Jacobsen,France,Olivier Nyokas,Germany,Uwe Gensheimer
+Handball,Handball,Team,Male,Denmark,Mads Christiansen,France,Daniel Narcisse,Germany,Finn Lemke
+Handball,Handball,Team,Male,Denmark,Mads Mensah Larsen,France,Vincent Gérard,Germany,Patrick Wiencek
+Handball,Handball,Team,Male,Denmark,Casper Ulrich Mortensen,France,Nikola Karabatic,Germany,Tobias Reichmann
+Handball,Handball,Team,Male,Denmark,Jesper Noddesbo,France,Kentin Mahé,Germany,Fabian Wiede
+Handball,Handball,Team,Male,Denmark,Jannick Green,France,Mathieu Grébille,Germany,Silvio Heinevetter
+Handball,Handball,Team,Male,Denmark,Lasse Svan Hansen,France,Thierry Omeyer,Germany,Hendrik Pekeler
+Handball,Handball,Team,Male,Denmark,Rene Toft Hansen,France,Timothey N'Guessan,Germany,Steffen Weinhold
+Handball,Handball,Team,Male,Denmark,Henrik Mollgaard,France,Luc Abalo,Germany,Martin Strobel
+Handball,Handball,Team,Male,Denmark,Kasper Sondergaard,France,Cedric Sorhaindo,Germany,Patrick Groetzki
+Handball,Handball,Team,Male,Denmark,Henrik Toft Hansen,France,Michael Guigou,Germany,Kai Häfner
+Handball,Handball,Team,Male,Denmark,Mikkel Hansen,France,Luka Karabatic,Germany,Andreas Wolff
+Handball,Handball,Team,Male,Denmark,Morten Olsen,France,Ludovic Fabregas,Germany,Julius Kühn
+Handball,Handball,Team,Male,Denmark,Michael Damgaard,France,Adrien Dipanda,Germany,Christian Dissinger
+Handball,Handball,Team,Male,NoMedal,NoMedal,NoMedal,Valentin Porte,Germany,Paul Drux
+Handball,Handball,Team,Female,Russia,Anna Sedoykina,France,Laura Glauser,Norway,Kari Aalvik Grimsbø
+Handball,Handball,Team,Female,Russia,Polina Kuznetsova,France,Blandine Dancette,Norway,Mari Molid
+Handball,Handball,Team,Female,Russia,Daria Dmitrieva,France,Camille Ayglon,Norway,Emilie Hegh Arntzen
+Handball,Handball,Team,Female,Russia,Anna Sen,France,Allison Pineau,Norway,Ida Alstad
+Handball,Handball,Team,Female,Russia,Olga Akopyan,France,Laurisa Landre,Norway,Veronica Kristiansen
+Handball,Handball,Team,Female,Russia,Anna Vyakhireva,France,Grace Zaadi,Norway,Heidi Løke
+Handball,Handball,Team,Female,Russia,Marina Sudakova,France,Marie Prouvensier,Norway,Nora Mørk
+Handball,Handball,Team,Female,Russia,Vladlena Bobrovnikova,France,Amandine Leynaud,Norway,Stine Bredal Oftedal
+Handball,Handball,Team,Female,Russia,Victoria Zhilinskayte,France,Manon Houette,Norway,Marit Malm Frafjord
+Handball,Handball,Team,Female,Russia,Yekaterina Marennikova,France,Siraba Dembélé,Norway,Katrine Lunde
+Handball,Handball,Team,Female,Russia,Irina Bliznova,France,Chloé Bulleux,Norway,Linn-Kristin Riegelhuth Koren
+Handball,Handball,Team,Female,Russia,Ekaterina Ilina,France,Béatrice Edwige,Norway,Amanda Kurtovi?
+Handball,Handball,Team,Female,Russia,Maya Petrova,France,Estelle Nze Minko,Norway,Camilla Herrem
+Handball,Handball,Team,Female,Russia,Tatyana Yerokhina,France,Gnonsiane Niombla,Norway,Sanna Solberg
+Handball,Handball,Team,Female,Russia,Victoriya Kalinina,France,Alexandra Lacrabère,NoMedal,NoMedal
+Judo,Extra-lightweight (60 kg),Individual,Male,Russia,Beslan Mudranov,Kazakhstan,Yeldos Smetov,Japan,Naohisa Takato
+Judo,Extra-lightweight (60 kg),Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Uzbekistan,Diyorbek Urozboev
+Judo,Half-lightweight (66 kg),Individual,Male,Italy,Fabio Basile,SouthKorea,An Ba-ul,Uzbekistan,Rishod Sobirov
+Judo,Half-lightweight (66 kg),Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Japan,Masashi Ebinuma
+Judo,Lightweight (73 kg),Individual,Male,Japan,Shohei Ono,Azerbaijan,Rustam Orujov,Georgia,Lasha Shavdatuashvili
+Judo,Lightweight (73 kg),Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Belgium,Dirk Van Tichelt
+Judo,Half-middleweight (81 kg),Individual,Male,Russia,Khasan Khalmurzaev,UnitedStates,Travis Stevens,UnitedArabEmirates,Sergiu Toma
+Judo,Half-middleweight (81 kg),Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Japan,Takanori Nagase
+Judo,Middleweight (90 kg),Individual,Male,Japan,Mashu Baker,Georgia,Varlam Liparteliani,SouthKorea,Gwak Dong-han
+Judo,Middleweight (90 kg),Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,China,Cheng Xunzhao
+Judo,Half-heavyweight (100 kg),Individual,Male,CzechRepublic,Lukáš Krpálek,Azerbaijan,Elmar Gasimov,France,Cyrille Maret
+Judo,Half-heavyweight (100 kg),Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Japan,Ryunosuke Haga
+Judo,Heavyweight (+100 kg),Individual,Male,France,Teddy Riner,Japan,Hisayoshi Harasawa,Brazil,Rafael Silva
+Judo,Heavyweight (+100 kg),Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Israel,Or Sasson
+Judo,Extra-lightweight (48 kg),Individual,Female,Argentina,Paula Pareto,SouthKorea,Jeong Bo-kyeong,Japan,Ami Kondo
+Judo,Extra-lightweight (48 kg),Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Kazakhstan,Galbadrakhyn Otgontsetseg
+Judo,Half-lightweight (52 kg),Individual,Female,Kosovo,Majlinda Kelmendi,Italy,Odette Giuffrida,Japan,Misato Nakamura
+Judo,Half-lightweight (52 kg),Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Russia,Natalia Kuziutina
+Judo,Lightweight (57 kg),Individual,Female,Brazil,Rafaela Silva,Mongolia,Dorjsürengiin Sumiyaa,Portugal,Telma Monteiro
+Judo,Lightweight (57 kg),Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Japan,Kaori Matsumoto
+Judo,Half-middleweight (63 kg),Individual,Female,Slovenia,Tina Trstenjak,France,Clarisse Agbegnenou,Israel,Yarden Gerbi
+Judo,Half-middleweight (63 kg),Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Netherlands,Anicka van Emden
+Judo,Middleweight (70 kg),Individual,Female,Japan,Haruka Tachimoto,Colombia,Yuri Alvear,GreatBritain,Sally Conway
+Judo,Middleweight (70 kg),Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Germany,Laura Vargas Koch
+Judo,Half-heavyweight (78 kg),Individual,Female,UnitedStates,Kayla Harrison,France,Audrey Tcheuméo,Brazil,Mayra Aguiar
+Judo,Half-heavyweight (78 kg),Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Slovenia,Anamari Velenšek
+Judo,Heavyweight (+78 kg),Individual,Female,France,Émilie Andéol,Cuba,Idalys Ortiz,Japan,Kanae Yamabe
+Judo,Heavyweight (+78 kg),Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,China,Yu Song
+ModernPentathlon,ModernPentathlon,Individual,Male,Russia,Aleksander Lesun,Ukraine,Pavlo Tymoshchenko,Mexico,Ismael Hernández
+ModernPentathlon,ModernPentathlon,Individual,Female,Australia,Chloe Esposito,France,Élodie Clouvel,Poland,Oktawia Nowacka
+Rowing,Single sculls,Individual,Male,NewZealand,Mahé Drysdale,Croatia,Damir Martin,CzechRepublic,Ondrej Synek
+Rowing,Double sculls,Team,Male,Croatia,Martin Sinkovi?,Lithuania,Mindaugas Griškonis,Norway,Kjetil Borch
+Rowing,Double sculls,Team,Male,Croatia,Valent Sinkovi?,Lithuania,Saulius Ritter,Norway,Olaf Tufte
+Rowing,Quadruple sculls,Team,Male,Germany,Philipp Wende,Australia,Karsten Forsterling,Estonia,Andrei Jämsä
+Rowing,Quadruple sculls,Team,Male,Germany,Lauritz Schoof,Australia,Alexander Belonogoff,Estonia,Allar Raja
+Rowing,Quadruple sculls,Team,Male,Germany,Karl Schulze,Australia,Cameron Girdlestone,Estonia,Tõnu Endrekson
+Rowing,Quadruple sculls,Team,Male,Germany,Hans Gruhne,Australia,James McRae,Estonia,Kaspar Taimsoo
+Rowing,Coxless pair,Team,Male,NewZealand,Eric Murray,SouthAfrica,Lawrence Brittain,Italy,Marco Di Costanzo
+Rowing,Coxless pair,Team,Male,NewZealand,Hamish Bond,SouthAfrica,Shaun Keeling,Italy,Giovanni Abagnale
+Rowing,Coxless four,Team,Male,GreatBritain,Alex Gregory,Australia,Will Lockwood,Italy,Domenico Montrone
+Rowing,Coxless four,Team,Male,GreatBritain,Mohamed Sbihi,Australia,Josh Dunkley-Smith,Italy,Matteo Castaldo
+Rowing,Coxless four,Team,Male,GreatBritain,George Nash,Australia,Josh Booth,Italy,Matteo Lodo
+Rowing,Coxless four,Team,Male,GreatBritain,Constantine Louloudis,Australia,Alexander Hill,Italy,Giuseppe Vicino
+Rowing,Coxed eight,Team,Male,GreatBritain,Paul Bennett,Germany,Maximilian Munski,Netherlands,Kaj Hendrik
+Rowing,Coxed eight,Team,Male,GreatBritain,Scott Durant,Germany,Malte Jakschik,Netherlands,Robert Lücken
+Rowing,Coxed eight,Team,Male,GreatBritain,Matt Gotrel,Germany,Andreas Kuffner,Netherlands,Boaz Meylink
+Rowing,Coxed eight,Team,Male,GreatBritain,Matt Langridge,Germany,Eric Johannesen,Netherlands,Boudewijn Roell
+Rowing,Coxed eight,Team,Male,GreatBritain,Tom Ransley,Germany,Maximilian Reinelt,Netherlands,Olivier Siegelaar
+Rowing,Coxed eight,Team,Male,GreatBritain,Pete Reed,Germany,Felix Drahotta,Netherlands,Dirk Uittenboogaard
+Rowing,Coxed eight,Team,Male,GreatBritain,William Satch,Germany,Richard Schmidt,Netherlands,Mechiel Versluis
+Rowing,Coxed eight,Team,Male,GreatBritain,Andrew Triggs Hodge,Germany,Hannes Ocik,Netherlands,Tone Wieten
+Rowing,Coxed eight,Team,Male,GreatBritain,Phelan Hill,Germany,Martin Sauer,Netherlands,Peter Wiersum
+Rowing,"Lightweight
+double sculls",Team,Male,France,Pierre Houin,Ireland,Gary O'Donovan,Norway,Kristoffer Brun
+Rowing,"Lightweight
+double sculls",Team,Male,France,Jérémie Azou,Ireland,Paul O'Donovan,Norway,Are Strandli
+Rowing,"Lightweight
+coxless four",Team,Male,Switzerland,Lucas Tramer,Denmark,Jacob Barsøe,France,Franck Solforosi
+Rowing,"Lightweight
+coxless four",Team,Male,Switzerland,Simon Schürch,Denmark,Jacob Larsen,France,Thomas Baroukh
+Rowing,"Lightweight
+coxless four",Team,Male,Switzerland,Simon Niepmann,Denmark,Kasper Winther Jørgensen,France,Guillaume Raineau
+Rowing,"Lightweight
+coxless four",Team,Male,Switzerland,Mario Gyr,Denmark,Morten Jørgensen,France,Thibault Colard
+Rowing,Single sculls,Individual,Female,Australia,Kim Brennan,UnitedStates,Gevvie Stone,China,Duan Jingli
+Rowing,Double sculls,Team,Female,Poland,Magdalena Fularczyk-Koz?owska,GreatBritain,Victoria Thornley,Lithuania,Donata Vištartait?
+Rowing,Double sculls,Team,Female,Poland,Natalia Madaj,GreatBritain,Katherine Grainger,Lithuania,Milda Val?iukait?
+Rowing,Quadruple sculls,Team,Female,Germany,Annekatrin Thiele,Netherlands,Chantal Achterberg,Poland,Maria Springwald
+Rowing,Quadruple sculls,Team,Female,Germany,Carina Bär,Netherlands,Nicole Beukers,Poland,Joanna Leszczy?ska
+Rowing,Quadruple sculls,Team,Female,Germany,Julia Lier,Netherlands,Inge Janssen,Poland,Agnieszka Kobus
+Rowing,Quadruple sculls,Team,Female,Germany,Lisa Schmidla,Netherlands,Carline Bouw,Poland,Monika Ciaciuch
+Rowing,Coxless pair,Team,Female,GreatBritain,Helen Glover,NewZealand,Genevieve Behrent,Denmark,Hedvig Rasmussen
+Rowing,Coxless pair,Team,Female,GreatBritain,Heather Stanning,NewZealand,Rebecca Scown,Denmark,Anne Andersen
+Rowing,Coxed eight,Team,Female,UnitedStates,Emily Regan,GreatBritain,Katie Greves,Romania,Roxana Cogianu
+Rowing,Coxed eight,Team,Female,UnitedStates,Kerry Simmonds,GreatBritain,Melanie Wilson,Romania,Ioana Strungaru
+Rowing,Coxed eight,Team,Female,UnitedStates,Amanda Polk,GreatBritain,Frances Houghton,Romania,Mihaela Petril?
+Rowing,Coxed eight,Team,Female,UnitedStates,Lauren Schmetterling,GreatBritain,Polly Swann,Romania,Iuliana Popa
+Rowing,Coxed eight,Team,Female,UnitedStates,Tessa Gobbo,GreatBritain,Jessica Eddie,Romania,M?d?lina Beres
+Rowing,Coxed eight,Team,Female,UnitedStates,Meghan Musnicki,GreatBritain,Olivia Carnegie-Brown,Romania,Laura Oprea
+Rowing,Coxed eight,Team,Female,UnitedStates,Elle Logan,GreatBritain,Karen Bennett,Romania,Adelina Bogu?
+Rowing,Coxed eight,Team,Female,UnitedStates,Amanda Elmore,GreatBritain,Zoe Lee,Romania,Andreea Boghian
+Rowing,Coxed eight,Team,Female,UnitedStates,Katelin Snyder,GreatBritain,Zoe De Toledo,Romania,Daniela Druncea
+Rowing,"Lightweight
+double sculls",Team,Female,Netherlands,Ilse Paulis,Canada,Lindsay Jennerich,China,Huang Wenyi
+Rowing,"Lightweight
+double sculls",Team,Female,Netherlands,Maaike Head,Canada,Patricia Obee,China,Pan Feihong
+Rugby,Rugby,Team,Male,Fiji,Masivesi Dakuwaqa,GreatBritain,Mark Bennett,SouthAfrica,Cecil Afrika
+Rugby,Rugby,Team,Male,Fiji,Apisai Domolailai,GreatBritain,Dan Bibby,SouthAfrica,Tim Agaba
+Rugby,Rugby,Team,Male,Fiji,Osea Kolinisau,GreatBritain,Phil Burgess,SouthAfrica,Kyle Brown
+Rugby,Rugby,Team,Male,Fiji,Semi Kunatani,GreatBritain,Sam Cross,SouthAfrica,Juan de Jongh
+Rugby,Rugby,Team,Male,Fiji,Viliame Mata,GreatBritain,James Davies,SouthAfrica,Justin Geduld
+Rugby,Rugby,Team,Male,Fiji,Leone Nakarawa,GreatBritain,Ollie Lindsay-Hague,SouthAfrica,Francois Hougaard
+Rugby,Rugby,Team,Male,Fiji,Vatemo Ravouvou,GreatBritain,Ruaridh McConnochie,SouthAfrica,Werner Kok
+Rugby,Rugby,Team,Male,Fiji,Kitione Taliga,GreatBritain,Tom Mitchell,SouthAfrica,Cheslin Kolbe
+Rugby,Rugby,Team,Male,Fiji,Josua Tuisova,GreatBritain,Dan Norton,SouthAfrica,Dylan Sage
+Rugby,Rugby,Team,Male,Fiji,Jerry Tuwai,GreatBritain,Mark Robertson,SouthAfrica,Kwagga Smith
+Rugby,Rugby,Team,Male,Fiji,Jasa Veremalua,GreatBritain,James Rodwell,SouthAfrica,Philip Snyman
+Rugby,Rugby,Team,Male,Fiji,Samisoni Viriviri,GreatBritain,Marcus Watson,SouthAfrica,Roscko Speckman
+Rugby,Rugby,Team,Female,Australia,Nicole Beck,NewZealand,Shakira Baker,Canada,Brittany Benn
+Rugby,Rugby,Team,Female,Australia,Charlotte Caslick,NewZealand,Kelly Brazier,Canada,Hannah Darling
+Rugby,Rugby,Team,Female,Australia,Emilee Cherry,NewZealand,Gayle Broughton,Canada,Bianca Farella
+Rugby,Rugby,Team,Female,Australia,Chloe Dalton,NewZealand,Theresa Fitzpatrick,Canada,Jen Kish
+Rugby,Rugby,Team,Female,Australia,Gemma Etheridge,NewZealand,Sarah Goss,Canada,Ghislaine Landry
+Rugby,Rugby,Team,Female,Australia,Ellia Green,NewZealand,Huriana Manuel,Canada,Megan Lukan
+Rugby,Rugby,Team,Female,Australia,Shannon Parry,NewZealand,Kayla McAlister,Canada,Kayla Moleschi
+Rugby,Rugby,Team,Female,Australia,Evania Pelite,NewZealand,Tyla Nathan-Wong,Canada,Karen Paquin
+Rugby,Rugby,Team,Female,Australia,Alicia Quirk,NewZealand,Terina Te Tamaki,Canada,Kelly Russell
+Rugby,Rugby,Team,Female,Australia,Emma Tonegato,NewZealand,Ruby Tui,Canada,Ashley Steacy
+Rugby,Rugby,Team,Female,Australia,Amy Turner,NewZealand,Niall Williams,Canada,Natasha Watcham-Roy
+Rugby,Rugby,Team,Female,Australia,Sharni Williams,NewZealand,Portia Woodman,Canada,Charity Williams
+Sailing,2016: Women's RS:X,Individual,Female,France,Charline Picon,China,Chen Peina,Russia,Stefania Elfutina
+Sailing,2016: Laser Radial,Individual,Female,Netherlands,Marit Bouwmeester,Ireland,Annalise Murphy,Denmark,Anne-Marie Rindom
+Sailing,2016: Women's 470,Team,Female,GreatBritain,Hannah Mills,NewZealand,Jo Aleh,France,Camille Lecointre
+Sailing,2016: Women's 470,Team,Female,GreatBritain,Saskia Clark,NewZealand,Olivia Powrie,France,Hélène Defrance
+Sailing,2016: 49erFX,Team,Female,Brazil,Martine Grael,NewZealand,Alex Maloney,Denmark,Jena Mai Hansen
+Sailing,2016: 49erFX,Team,Female,Brazil,Kahena Kunze,NewZealand,Molly Meech,Denmark,Katja Salskov-Iversen
+Sailing,2016: Men's RS:X,Individual,Male,Netherlands,Dorian van Rijsselberghe,GreatBritain,Nick Dempsey,France,Pierre Le Coq
+Sailing,2016: Laser,Individual,Male,Australia,Tom Burton,Croatia,Ton?i Stipanovi?,NewZealand,Sam Meech
+Sailing,2016: Finn,Individual,Male,GreatBritain,Giles Scott,Slovenia,Vasilij Žbogar,UnitedStates,Caleb Paine
+Sailing,2016: Men's 470,Team,Male,Croatia,Šime Fantela,Australia,Mathew Belcher,Greece,Panagiotis Mantis
+Sailing,2016: Men's 470,Team,Male,Croatia,Igor Mareni?,Australia,William Ryan,Greece,Pavlos Kagialis
+Sailing,2016: 49er,Team,Male,NewZealand,Peter Burling,Australia,Nathan Outteridge,Germany,Erik Heil
+Sailing,2016: 49er,Team,Male,NewZealand,Blair Tuke,Australia,Iain Jensen,Germany,Thomas Plößel
+Sailing,2016: Nacra 17,Team,Mixed,Argentina,Santiago Lange,Australia,Jason Waterhouse,Austria,Thomas Zajac
+Sailing,2016: Nacra 17,Team,Mixed,Argentina,Cecilia Carranza Saroli,Australia,Lisa Darmanin,Austria,Tanja Frank
+Shooting,10 metre air pistol,Individual,Male,Vietnam,Hoàng Xuân Vinh,Brazil,Felipe Almeida Wu,China,Pang Wei
+Shooting,10 metre air rifle,Individual,Male,Italy,Niccolò Campriani,Ukraine,Serhiy Kulish,Russia,Vladimir Maslennikov
+Shooting,25 metre rapid fire pistol,Individual,Male,Germany,Christian Reitz,France,Jean Quiquampoix,China,Li Yuehong
+Shooting,50 metre pistol,Individual,Male,SouthKorea,Jin Jong-oh,Vietnam,Hoàng Xuân Vinh,NorthKorea,Kim Song-guk
+Shooting,50 metre rifle prone,Individual,Male,Germany,Henri Junghänel,SouthKorea,Kim Jong-hyun,Russia,Kirill Grigoryan
+Shooting,50 metre rifle three positions,Individual,Male,Italy,Niccolò Campriani,Russia,Sergey Kamenskiy,France,Alexis Raynaud
+Shooting,Skeet,Individual,Male,Italy,Gabriele Rossetti,Sweden,Marcus Svensson,Independent Olympic Athletes,Abdullah Al-Rashidi
+Shooting,Trap,Individual,Male,Croatia,Josip Glasnovi?,Italy,Giovanni Pellielo,GreatBritain,Edward Ling
+Shooting,Double trap,Individual,Male,Independent Olympic Athletes,Fehaid Al-Deehani,Italy,Marco Innocenti,GreatBritain,Steven Scott
+Shooting,10 metre air pistol,Individual,Female,China,Zhang Mengxue,Russia,Vitalina Batsarashkina,Greece,Anna Korakaki
+Shooting,10 metre air rifle,Individual,Female,UnitedStates,Virginia Thrasher,China,Du Li,China,Yi Siling
+Shooting,25 metre pistol,Individual,Female,Greece,Anna Korakaki,Germany,Monika Karsch,Switzerland,Heidi Diethelm Gerber
+Shooting,50 metre rifle three positions,Individual,Female,Germany,Barbara Engleder,China,Zhang Binbin,China,Du Li
+Shooting,Skeet,Individual,Female,Italy,Diana Bacosi,Italy,Chiara Cainero,UnitedStates,Kim Rhode
+Shooting,Trap,Individual,Female,Australia,Catherine Skinner,NewZealand,Natalie Rooney,UnitedStates,Corey Cogdell
+TableTennis,Men's singles,Individual,Male,China,Ma Long,China,Zhang Jike,Japan,Jun Mizutani
+TableTennis,Men's team,Team,Male,China,Zhang Jike,Japan,Koki Niwa,Germany,Timo Boll
+TableTennis,Men's team,Team,Male,China,Ma Long,Japan,Jun Mizutani,Germany,Dimitrij Ovtcharov
+TableTennis,Men's team,Team,Male,China,Xu Xin,Japan,Maharu Yoshimura,Germany,Bastian Steger
+TableTennis,Women's singles,Individual,Female,China,Ding Ning,China,Li Xiaoxia,NorthKorea,Kim Song-i
+TableTennis,Women's team,Team,Female,China,Liu Shiwen,Germany,Han Ying,Japan,Ai Fukuhara
+TableTennis,Women's team,Team,Female,China,Ding Ning,Germany,Petrissa Solja,Japan,Kasumi Ishikawa
+TableTennis,Women's team,Team,Female,China,Li Xiaoxia,Germany,Shan Xiaona,Japan,Mima Ito
+Taekwondo,Flyweight (58 kg),Individual,Male,China,Zhao Shuai,Thailand,Tawin Hanprab,DominicanRepublic,Luisito Pie
+Taekwondo,Flyweight (58 kg),Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,SouthKorea,Kim Tae-hun
+Taekwondo,Featherweight (68 kg),Individual,Male,Jordan,Ahmad Abu-Ghaush,Russia,Alexey Denisenko,SouthKorea,Lee Dae-hoon
+Taekwondo,Featherweight (68 kg),Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Spain,Joel González
+Taekwondo,Welterweight (80 kg),Individual,Male,IvoryCoast,Cheick Sallah Cissé,GreatBritain,Lutalo Muhammad,Azerbaijan,Milad Beigi
+Taekwondo,Welterweight (80 kg),Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Tunisia,Oussama Oueslati
+Taekwondo,Heavyweight (+80 kg,Individual,Male,Azerbaijan,Radik Isayev,Niger,Abdoul Razak Issoufou,Brazil,Maicon Siqueira
+Taekwondo,Heavyweight (+80 kg,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,SouthKorea,Cha Dong-min
+Taekwondo,Flyweight (49 kg),Individual,Female,SouthKorea,Kim So-hui,Serbia,Tijana Bogdanovi?,Azerbaijan,Patimat Abakarova
+Taekwondo,Flyweight (49 kg),Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Thailand,Panipak Wongpattanakit
+Taekwondo,Featherweight (57 kg),Individual,Female,GreatBritain,Jade Jones,Spain,Eva Calvo,Egypt,Hedaya Malak
+Taekwondo,Featherweight (57 kg),Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Iran,Kimia Alizadeh
+Taekwondo,Welterweight (67 kg),Individual,Female,SouthKorea,Oh Hye-ri,France,Haby Niaré,IvoryCoast,Ruth Gbagbi
+Taekwondo,Welterweight (67 kg),Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Turkey,Nur Tatar
+Taekwondo,Heavyweight (+67 kg),Individual,Female,China,Zheng Shuyin,Mexico,María Espinoza,GreatBritain,Bianca Walkden
+Taekwondo,Heavyweight (+67 kg),Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,UnitedStates,Jackie Galloway
+Tennis,Men's Singles,Individual,Male,GreatBritain,Andy Murray,Argentina,Juan Martín del Potro,Japan,Kei Nishikori
+Tennis,Men's Doubles,Team,Male,Spain,Marc López,Romania,Florin Mergea,UnitedStates,Steve Johnson
+Tennis,Men's Doubles,Team,Male,Spain,Rafael Nadal,Romania,Horia Tec?u,UnitedStates,Jack Sock
+Tennis,Women's Singles,Individual,Female,PuertoRico,Mónica Puig,Germany,Angelique Kerber,CzechRepublic,Petra Kvitová
+Tennis,Women's Doubles,Team,Female,Russia,Ekaterina Makarova,Switzerland,Timea Bacsinszky,CzechRepublic,Lucie Šafá?ová
+Tennis,Women's Doubles,Team,Female,Russia,Elena Vesnina,Switzerland,Martina Hingis,CzechRepublic,Barbora Strýcová
+Tennis,Mixed Doubles,Team,Mixed,UnitedStates,Bethanie Mattek-Sands,UnitedStates,Venus Williams,CzechRepublic,Lucie Hradecká
+Tennis,Mixed Doubles,Team,Mixed,UnitedStates,Jack Sock,UnitedStates,Rajeev Ram,CzechRepublic,Radek Št?pánek
+Triathlon,Men's individual,Individual,Male,GreatBritain,Alistair Brownlee,GreatBritain,Jonathan Brownlee,SouthAfrica,Henri Schoeman
+Triathlon,Women's individual,Individual,Female,UnitedStates,Gwen Jorgensen,Switzerland,Nicola Spirig Hug,GreatBritain,Vicky Holland
+Volleyball,Men's indoor,Team,Male,Brazil,William Arjona,Italy,Oleg Antonov,UnitedStates,Matthew Anderson
+Volleyball,Men's indoor,Team,Male,Brazil,Éder Carbonera,Italy,Emanuele Birarelli,UnitedStates,Micah Christenson
+Volleyball,Men's indoor,Team,Male,Brazil,Wallace de Souza,Italy,Simone Buti,UnitedStates,Maxwell Holt
+Volleyball,Men's indoor,Team,Male,Brazil,Luiz Felipe Fonteles,Italy,Massimo Colaci,UnitedStates,Thomas Jaeschke
+Volleyball,Men's indoor,Team,Male,Brazil,Evandro Guerra,Italy,Simone Giannelli,UnitedStates,David Lee
+Volleyball,Men's indoor,Team,Male,Brazil,Ricardo Lucarelli Souza,Italy,Osmany Juantorena,UnitedStates,William Priddy
+Volleyball,Men's indoor,Team,Male,Brazil,Bruno Rezende,Italy,Filippo Lanza,UnitedStates,Aaron Russell
+Volleyball,Men's indoor,Team,Male,Brazil,Lucas Saatkamp,Italy,Matteo Piano,UnitedStates,Taylor Sander
+Volleyball,Men's indoor,Team,Male,Brazil,Sérgio Santos,Italy,Salvatore Rossini,UnitedStates,Erik Shoji
+Volleyball,Men's indoor,Team,Male,Brazil,Maurício Silva,Italy,Pasquale Sottile,UnitedStates,Kawika Shoji
+Volleyball,Men's indoor,Team,Male,Brazil,Douglas Souza,Italy,Luca Vettori,UnitedStates,David Smith
+Volleyball,Men's indoor,Team,Male,Brazil,Maurício Souza,Italy,Ivan Zaytsev,UnitedStates,Murphy Troy
+Volleyball,Women's indoor,Team,Female,China,Ding Xia,Serbia,Tijana Boškovi?,UnitedStates,Rachael Adams
+Volleyball,Women's indoor,Team,Female,China,Gong Xiangyu,Serbia,Jovana Brako?evi?,UnitedStates,Foluke Akinradewo
+Volleyball,Women's indoor,Team,Female,China,Hui Ruoqi,Serbia,Bianka Buša,UnitedStates,Kayla Banwarth
+Volleyball,Women's indoor,Team,Female,China,Lin Li,Serbia,Tijana Maleševi?,UnitedStates,Alisha Glass
+Volleyball,Women's indoor,Team,Female,China,Liu Xiaotong,Serbia,Brankica Mihajlovi?,UnitedStates,Christa Harmotto
+Volleyball,Women's indoor,Team,Female,China,Wei Qiuyue,Serbia,Jelena Nikoli?,UnitedStates,Kimberly Hill
+Volleyball,Women's indoor,Team,Female,China,Xu Yunli,Serbia,Maja Ognjenovi?,UnitedStates,Jordan Larson
+Volleyball,Women's indoor,Team,Female,China,Yan Ni,Serbia,Silvija Popovi?,UnitedStates,Carli Lloyd
+Volleyball,Women's indoor,Team,Female,China,Yang Fangxu,Serbia,Milena Raši?,UnitedStates,Karsta Lowe
+Volleyball,Women's indoor,Team,Female,China,Yuan Xinyue,Serbia,Jovana Stevanovi?,UnitedStates,Kelly Murphy
+Volleyball,Women's indoor,Team,Female,China,Zhang Changning,Serbia,Stefana Veljkovi?,UnitedStates,Kelsey Robinson
+Volleyball,Women's indoor,Team,Female,China,Zhu Ting,Serbia,Bojana Živkovi?,UnitedStates,Courtney Thompson
+Beach volleyball,Men's beach,Team,Male,Brazil,Alison Cerutti,Italy,Daniele Lupo,Netherlands,Alexander Brouwer
+Beach volleyball,Men's beach,Team,Male,Brazil,Bruno Oscar Schmidt,Italy,Paolo Nicolai,Netherlands,Robert Meeuwsen
+Beach volleyball,Women's beach,Team,Female,Germany,Laura Ludwig,Brazil,Ágatha Bednarczuk,UnitedStates,Kerri Walsh Jennings
+Beach volleyball,Women's beach,Team,Female,Germany,Kira Walkenhorst,Brazil,Bárbara Seixas,UnitedStates,April Ross
+Weightlifting,56 kg,Individual,Male,China,Long Qingquan,NorthKorea,Om Yun-chol,Thailand,Sinphet Kruaithong
+Weightlifting,62 kg,Individual,Male,Columbia,Óscar Figueroa,Indonesia,Eko Yuli Irawan,Kazakhstan,Farkhad Kharki
+Weightlifting,69 kg,Individual,Male,China,Shi Zhiyong,Turkey,Daniyar Ismayilov,Columbia,Luis Javier Mosquera
+Weightlifting,77 kg,Individual,Male,Kazakhstan,Nijat Rahimov,China,Lü Xiaojun,Egypt,Mohamed Ihab
+Weightlifting,85 kg,Individual,Male,Iran,Kianoush Rostami,China,Tian Tao,Romania,Gabriel Sîncr?ian
+Weightlifting,94 kg,Individual,Male,Iran,Sohrab Moradi,Belarus,Vadzim Straltsou,Lithuania,Aurimas Didžbalis
+Weightlifting,105 kg,Individual,Male,Uzbekistan,Ruslan Nurudinov,Armenia,Simon Martirosyan,Kazakhstan,Aleksandr Zaychikov
+Weightlifting,105+ kg,Individual,Male,Georgia,Lasha Talakhadze,Armenia,Gor Minasyan,Georgia,Irakli Turmanidze
+Weightlifting,48 kg,Individual,Female,Thailand,Sopita Tanasan,Indonesia,Sri Wahyuni Agustiani,Japan,Hiromi Miyake
+Weightlifting,53 kg,Individual,Female,ChineseTaipei,Hsu Shu-ching,Philippines,Hidilyn Diaz,SouthKorea,Yoon Jin-hee
+Weightlifting,58 kg,Individual,Female,Thailand,Sukanya Srisurat,Thailand,Pimsiri Sirikaew,Chinese Taipei,Kuo Hsing-chun
+Weightlifting,63 kg,Individual,Female,China,Deng Wei,NorthKorea,Choe Hyo-sim,Kazakhstan,Karina Goricheva
+Weightlifting,69 kg,Individual,Female,China,Xiang Yanmei,Kazakhstan,Zhazira Zhapparkul,Egypt,Sara Ahmed
+Weightlifting,75 kg,Individual,Female,NorthKorea,Rim Jong-sim,Belarus,Darya Naumava,Spain,Lidia Valentín
+Weightlifting,75+ kg,Individual,Female,China,Meng Suping,NorthKorea,Kim Kuk-hyang,UnitedStates,Sarah Robles
+Wrestling,Men's freestyle - 57 kg,Individual,Male,Georgia,Vladimer Khinchegashvili,Japan,Rei Higuchi,Azerbaijan,Haji Aliyev
+Wrestling,Men's freestyle - 57 kg,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Iran,Hassan Rahimi
+Wrestling,Men's freestyle - 65 kg,Individual,Male,Russia,Soslan Ramonov,Azerbaijan,Toghrul Asgarov,Italy,Frank Chamizo
+Wrestling,Men's freestyle - 65 kg,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Uzbekistan,Ikhtiyor Navruzov
+Wrestling,Men's freestyle - 74 kg,Individual,Male,Iran,Hassan Yazdani,Russia,Aniuar Geduev,Azerbaijan,Jabrayil Hasanov
+Wrestling,Men's freestyle - 74 kg,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Turkey,Soner Demirta?
+Wrestling,Men's freestyle - 86 kg,Individual,Male,Russia,Abdulrashid Sadulaev,Turkey,Selim Ya?ar,Azerbaijan,Sharif Sharifov
+Wrestling,Men's freestyle - 86 kg,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,UnitedStates,J'den Cox
+Wrestling,Men's freestyle - 97 kg,Individual,Male,UnitedStates,Kyle Snyder,Azerbaijan,Khetag Gazyumov,Romania,Albert Saritov
+Wrestling,Men's freestyle - 97 kg,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Uzbekistan,Magomed Ibragimov
+Wrestling,Men's freestyle - 125 kg,Individual,Male,Turkey,Taha Akgül,Iran,Komeil Ghasemi,Belarus,Ibrahim Saidau
+Wrestling,Men's freestyle - 125 kg,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Georgia,Geno Petriashvili
+Wrestling,Men's Greco-Roman - 59 kg,Individual,Male,Cuba,Ismael Borrero,Japan,Shinobu Ota,Uzbekistan,Elmurat Tasmuradov
+Wrestling,Men's Greco-Roman - 59 kg,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Norway,Stig André Berge
+Wrestling,Men's Greco-Roman - 66 kg,Individual,Male,Serbia,Davor Štefanek,Armenia,Migran Arutyunyan,Georgia,Shmagi Bolkvadze
+Wrestling,Men's Greco-Roman - 66 kg,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Azerbaijan,Rasul Chunayev
+Wrestling,Men's Greco-Roman - 75 kg,Individual,Male,Russia,Roman Vlasov,Denmark,Mark Madsen,SouthKorea,Kim Hyeon-woo
+Wrestling,Men's Greco-Roman - 75 kg,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Iran,Saeid Abdevali
+Wrestling,Men's Greco-Roman - 85 kg,Individual,Male,Russia,Davit Chakvetadze,Ukraine,Zhan Beleniuk,Belarus,Javid Hamzatau
+Wrestling,Men's Greco-Roman - 85 kg,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Germany,Denis Kudla
+Wrestling,Men's Greco-Roman - 98 kg,Individual,Male,Armenia,Artur Aleksanyan,Cuba,Yasmany Lugo,Turkey,Cenk ?ldem
+Wrestling,Men's Greco-Roman - 98 kg,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Iran,Ghasem Rezaei
+Wrestling,Men's Greco-Roman - 130 kg,Individual,Male,Cuba,Mijaín López,Turkey,R?za Kayaalp,Azerbaijan,Sabah Shariati
+Wrestling,Men's Greco-Roman - 130 kg,Individual,Male,NoMedal,NoMedal,NoMedal,NoMedal,Russia,Sergey Semenov
+Wrestling,Women's freestyle - 48 kg,Individual,Female,Japan,Eri Tosaka,Azerbaijan,Mariya Stadnik,China,Sun Yanan
+Wrestling,Women's freestyle - 48 kg,Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Bulgaria,Elitsa Yankova
+Wrestling,Women's freestyle - 53 kg,Individual,Female,UnitedStates,Helen Maroulis,Japan,Saori Yoshida,Azerbaijan,Nataliya Synyshyn
+Wrestling,Women's freestyle - 53 kg,Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Sweden,Sofia Mattsson
+Wrestling,Women's freestyle - 58 kg,Individual,Female,Japan,Kaori Icho,Russia,Valeria Koblova,Tunisia,Marwa Amri
+Wrestling,Women's freestyle - 58 kg,Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,India,Sakshi Malik
+Wrestling,Women's freestyle - 63 kg,Individual,Female,Japan,Risako Kawai,Belarus,Maryia Mamashuk,Kazakhstan,Yekaterina Larionova
+Wrestling,Women's freestyle - 63 kg,Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Poland,Monika Michalik
+Wrestling,Women's freestyle - 69 kg,Individual,Female,Japan,Sara Dosho,Russia,Nataliya Vorobyova,Kazakhstan,Elmira Syzdykova
+Wrestling,Women's freestyle - 69 kg,Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Sweden,Jenny Fransson
+Wrestling,Women's freestyle - 75 kg,Individual,Female,Canada,Erica Wiebe,Kazakhstan,Guzel Manyurova,China,Zhang Fengliu
+Wrestling,Women's freestyle - 75 kg,Individual,Female,NoMedal,NoMedal,NoMedal,NoMedal,Russia,Ekaterina Bukina

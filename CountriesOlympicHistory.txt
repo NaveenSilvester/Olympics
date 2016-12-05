@@ -1,0 +1,1572 @@
+COUNTRY	CODE	Medals	Year
+Australia	AUS	2	1896
+Switzerland	CHE	3	1896
+Austria	AUT	5	1896
+Denmark	DNK	6	1896
+Hungary	HUN	6	1896
+United Kingdom	GBR	7	1896
+France	FRA	11	1896
+Germany	DEU	13	1896
+United States	USA	20	1896
+Greece	GRC	46	1896
+Mexico	MEX	1	1900
+Spain	ESP	1	1900
+Sweden	SWE	1	1900
+Canada	CAN	2	1900
+Cuba	CUB	2	1900
+India	IND	2	1900
+Italy	ITA	4	1900
+Netherlands	NLD	4	1900
+Australia	AUS	5	1900
+Hungary	HUN	5	1900
+Norway	NOR	5	1900
+Austria	AUT	6	1900
+Denmark	DNK	6	1900
+Germany	DEU	8	1900
+Switzerland	CHE	9	1900
+Belgium	BEL	15	1900
+United Kingdom	GBR	30	1900
+United States	USA	47	1900
+France	FRA	101	1900
+Austria	AUT	1	1904
+Greece	GRC	2	1904
+Switzerland	CHE	2	1904
+United Kingdom	GBR	2	1904
+Hungary	HUN	4	1904
+Canada	CAN	6	1904
+Cuba	CUB	9	1904
+Germany	DEU	13	1904
+United States	USA	239	1904
+Austria	AUT	1	1908
+Netherlands	NLD	2	1908
+South Africa	ZAF	2	1908
+Greece	GRC	3	1908
+Russia	RUS	3	1908
+Italy	ITA	4	1908
+Australia	AUS	5	1908
+Denmark	DNK	5	1908
+Finland	FIN	5	1908
+Belgium	BEL	8	1908
+Norway	NOR	8	1908
+Hungary	HUN	9	1908
+Germany	DEU	13	1908
+Canada	CAN	16	1908
+France	FRA	19	1908
+Sweden	SWE	25	1908
+United States	USA	47	1908
+United Kingdom	GBR	146	1908
+Greece	GRC	2	1912
+Netherlands	NLD	3	1912
+Austria	AUT	4	1912
+Russia	RUS	5	1912
+Belgium	BEL	6	1912
+Italy	ITA	6	1912
+South Africa	ZAF	6	1912
+Australia	AUS	7	1912
+Canada	CAN	8	1912
+Hungary	HUN	8	1912
+Norway	NOR	9	1912
+Denmark	DNK	12	1912
+France	FRA	14	1912
+Germany	DEU	25	1912
+Finland	FIN	26	1912
+United Kingdom	GBR	41	1912
+United States	USA	63	1912
+Sweden	SWE	65	1912
+Greece	GRC	1	1920
+Luxembourg	LUX	1	1920
+New Zealand	NZL	1	1920
+Czech Republic	CZE	2	1920
+Japan	JPN	2	1920
+Spain	ESP	2	1920
+Australia	AUS	3	1920
+Brazil	BRA	3	1920
+Estonia	EST	3	1920
+Canada	CAN	9	1920
+South Africa	ZAF	10	1920
+Netherlands	NLD	11	1920
+Switzerland	CHE	11	1920
+Denmark	DNK	13	1920
+Italy	ITA	23	1920
+Norway	NOR	31	1920
+Finland	FIN	34	1920
+Belgium	BEL	36	1920
+France	FRA	41	1920
+United Kingdom	GBR	43	1920
+Sweden	SWE	64	1920
+United States	USA	95	1920
+Haiti	HTI	1	1924
+Japan	JPN	1	1924
+New Zealand	NZL	1	1924
+Portugal	PRT	1	1924
+Romania	ROU	1	1924
+Uruguay	URY	1	1924
+Macedonia	MKD	2	1924
+Poland	POL	2	1924
+South Africa	ZAF	3	1924
+Austria	AUT	4	1924
+Canada	CAN	4	1924
+Argentina	ARG	6	1924
+Australia	AUS	6	1924
+Estonia	EST	6	1924
+Denmark	DNK	9	1924
+Hungary	HUN	9	1924
+Czech Republic	CZE	10	1924
+Netherlands	NLD	10	1924
+Norway	NOR	10	1924
+Belgium	BEL	13	1924
+Italy	ITA	16	1924
+Switzerland	CHE	25	1924
+Sweden	SWE	29	1924
+United Kingdom	GBR	34	1924
+Finland	FIN	37	1924
+France	FRA	38	1924
+United States	USA	99	1924
+Chile	CHL	1	1928
+Haiti	HTI	1	1928
+India	IND	1	1928
+Ireland	IRL	1	1928
+New Zealand	NZL	1	1928
+Philippines	PHL	1	1928
+Portugal	PRT	1	1928
+Spain	ESP	1	1928
+Uruguay	URY	1	1928
+Austria	AUT	3	1928
+Belgium	BEL	3	1928
+South Africa	ZAF	3	1928
+Australia	AUS	4	1928
+Egypt	EGY	4	1928
+Norway	NOR	4	1928
+Estonia	EST	5	1928
+Japan	JPN	5	1928
+Macedonia	MKD	5	1928
+Poland	POL	5	1928
+Denmark	DNK	6	1928
+Argentina	ARG	7	1928
+Czech Republic	CZE	9	1928
+Hungary	HUN	9	1928
+Canada	CAN	15	1928
+Switzerland	CHE	15	1928
+Italy	ITA	19	1928
+Netherlands	NLD	19	1928
+United Kingdom	GBR	20	1928
+France	FRA	21	1928
+Finland	FIN	25	1928
+Sweden	SWE	25	1928
+Germany	DEU	31	1928
+United States	USA	56	1928
+India	IND	1	1932
+Latvia	LVA	1	1932
+New Zealand	NZL	1	1932
+Spain	ESP	1	1932
+Switzerland	CHE	1	1932
+Uruguay	URY	1	1932
+Ireland	IRL	2	1932
+Mexico	MEX	2	1932
+Philippines	PHL	3	1932
+Argentina	ARG	4	1932
+Czech Republic	CZE	4	1932
+Australia	AUS	5	1932
+Austria	AUT	5	1932
+South Africa	ZAF	5	1932
+Denmark	DNK	6	1932
+Netherlands	NLD	7	1932
+Poland	POL	7	1932
+Canada	CAN	15	1932
+Hungary	HUN	15	1932
+United Kingdom	GBR	16	1932
+Japan	JPN	18	1932
+France	FRA	19	1932
+Germany	DEU	20	1932
+Sweden	SWE	23	1932
+Finland	FIN	25	1932
+Italy	ITA	36	1932
+United States	USA	103	1932
+Australia	AUS	1	1936
+India	IND	1	1936
+Macedonia	MKD	1	1936
+New Zealand	NZL	1	1936
+Philippines	PHL	1	1936
+Portugal	PRT	1	1936
+Romania	ROU	1	1936
+South Africa	ZAF	1	1936
+Belgium	BEL	2	1936
+Latvia	LVA	2	1936
+Turkey	TUR	2	1936
+Mexico	MEX	3	1936
+Denmark	DNK	5	1936
+Egypt	EGY	5	1936
+Norway	NOR	6	1936
+Poland	POL	6	1936
+Argentina	ARG	7	1936
+Estonia	EST	7	1936
+Czech Republic	CZE	8	1936
+Canada	CAN	9	1936
+Austria	AUT	13	1936
+United Kingdom	GBR	14	1936
+Switzerland	CHE	15	1936
+Hungary	HUN	16	1936
+Netherlands	NLD	17	1936
+Japan	JPN	18	1936
+Finland	FIN	19	1936
+France	FRA	19	1936
+Sweden	SWE	20	1936
+Italy	ITA	22	1936
+United States	USA	56	1936
+Germany	DEU	89	1936
+Brazil	BRA	1	1948
+Cuba	CUB	1	1948
+India	IND	1	1948
+Iran	IRN	1	1948
+Peru	PER	1	1948
+Poland	POL	1	1948
+Puerto Rico	PRI	1	1948
+Spain	ESP	1	1948
+Sri Lanka	LKA	1	1948
+Trinidad and Tobago	TTO	1	1948
+"Korea, South"	PRK	2	1948
+Macedonia	MKD	2	1948
+Panama	PAN	2	1948
+Portugal	PRT	2	1948
+Uruguay	URY	2	1948
+Canada	CAN	3	1948
+Jamaica	JAM	3	1948
+Austria	AUT	4	1948
+South Africa	ZAF	4	1948
+Egypt	EGY	5	1948
+Mexico	MEX	5	1948
+Argentina	ARG	7	1948
+Belgium	BEL	7	1948
+Norway	NOR	7	1948
+Czech Republic	CZE	11	1948
+Turkey	TUR	12	1948
+Australia	AUS	13	1948
+Netherlands	NLD	16	1948
+Denmark	DNK	20	1948
+Finland	FIN	20	1948
+Switzerland	CHE	20	1948
+United Kingdom	GBR	23	1948
+Hungary	HUN	27	1948
+Italy	ITA	27	1948
+France	FRA	29	1948
+Sweden	SWE	44	1948
+United States	USA	84	1948
+Bulgaria	BGR	1	1952
+Egypt	EGY	1	1952
+Ireland	IRL	1	1952
+Luxembourg	LUX	1	1952
+Mexico	MEX	1	1952
+Portugal	PRT	1	1952
+Spain	ESP	1	1952
+Venezuela	VEN	1	1952
+Austria	AUT	2	1952
+Chile	CHL	2	1952
+India	IND	2	1952
+"Korea, South"	PRK	2	1952
+Lebanon	LBN	2	1952
+Trinidad and Tobago	TTO	2	1952
+Uruguay	URY	2	1952
+Brazil	BRA	3	1952
+Canada	CAN	3	1952
+Macedonia	MKD	3	1952
+New Zealand	NZL	3	1952
+Turkey	TUR	3	1952
+Belgium	BEL	4	1952
+Poland	POL	4	1952
+Romania	ROU	4	1952
+Argentina	ARG	5	1952
+Jamaica	JAM	5	1952
+Netherlands	NLD	5	1952
+Norway	NOR	5	1952
+Denmark	DNK	6	1952
+Iran	IRN	7	1952
+Japan	JPN	9	1952
+South Africa	ZAF	10	1952
+Australia	AUS	11	1952
+United Kingdom	GBR	11	1952
+Czech Republic	CZE	13	1952
+Switzerland	CHE	14	1952
+France	FRA	18	1952
+Italy	ITA	21	1952
+Finland	FIN	22	1952
+Germany	DEU	24	1952
+Sweden	SWE	35	1952
+Hungary	HUN	42	1952
+Russia	RUS	71	1952
+United States	USA	76	1952
+"Bahamas, The"	BHM	1	1956
+Brazil	BRA	1	1956
+Greece	GRC	1	1956
+Iceland	ISL	1	1956
+India	IND	1	1956
+Pakistan	PAK	1	1956
+Switzerland	CHE	1	1956
+Uruguay	URY	1	1956
+Argentina	ARG	2	1956
+Austria	AUT	2	1956
+Belgium	BEL	2	1956
+"Korea, South"	PRK	2	1956
+Mexico	MEX	2	1956
+New Zealand	NZL	2	1956
+Macedonia	MKD	3	1956
+Norway	NOR	3	1956
+Chile	CHL	4	1956
+Denmark	DNK	4	1956
+South Africa	ZAF	4	1956
+Bulgaria	BGR	5	1956
+Iran	IRN	5	1956
+Ireland	IRL	5	1956
+Canada	CAN	6	1956
+Czech Republic	CZE	6	1956
+Turkey	TUR	7	1956
+Poland	POL	9	1956
+Romania	ROU	13	1956
+France	FRA	14	1956
+Finland	FIN	15	1956
+Japan	JPN	19	1956
+Sweden	SWE	19	1956
+United Kingdom	GBR	24	1956
+Italy	ITA	25	1956
+Germany	DEU	26	1956
+Hungary	HUN	26	1956
+Australia	AUS	35	1956
+United States	USA	74	1956
+Russia	RUS	98	1956
+Canada	CAN	1	1960
+China	CHN	1	1960
+Ethiopia	ETH	1	1960
+Ghana	GHA	1	1960
+Greece	GRC	1	1960
+India	IND	1	1960
+Iraq	IRQ	1	1960
+Mexico	MEX	1	1960
+Morocco	MAR	1	1960
+Norway	NOR	1	1960
+Portugal	PRT	1	1960
+Singapore	SGP	1	1960
+Spain	ESP	1	1960
+Venezuela	VEN	1	1960
+Argentina	ARG	2	1960
+Austria	AUT	2	1960
+Brazil	BRA	2	1960
+Egypt	EGY	2	1960
+Macedonia	MKD	2	1960
+Pakistan	PAK	2	1960
+Netherlands	NLD	3	1960
+New Zealand	NZL	3	1960
+South Africa	ZAF	3	1960
+Belgium	BEL	4	1960
+Iran	IRN	4	1960
+Finland	FIN	5	1960
+France	FRA	5	1960
+Denmark	DNK	6	1960
+Sweden	SWE	6	1960
+Switzerland	CHE	6	1960
+Bulgaria	BGR	7	1960
+Czech Republic	CZE	8	1960
+Turkey	TUR	9	1960
+Romania	ROU	10	1960
+Japan	JPN	18	1960
+United Kingdom	GBR	20	1960
+Hungary	HUN	21	1960
+Poland	POL	21	1960
+Australia	AUS	22	1960
+Italy	ITA	36	1960
+Germany	DEU	42	1960
+United States	USA	71	1960
+Russia	RUS	103	1960
+Argentina	ARG	1	1964
+"Bahamas, The"	BHM	1	1964
+Brazil	BRA	1	1964
+Cuba	CUB	1	1964
+Ethiopia	ETH	1	1964
+Ghana	GHA	1	1964
+India	IND	1	1964
+Ireland	IRL	1	1964
+Kenya	KEN	1	1964
+Mexico	MEX	1	1964
+Nigeria	NGA	1	1964
+Pakistan	PAK	1	1964
+Philippines	PHL	1	1964
+Uruguay	URY	1	1964
+Iran	IRN	2	1964
+Tunisia	TUN	2	1964
+Belgium	BEL	3	1964
+"Korea, South"	PRK	3	1964
+Trinidad and Tobago	TTO	3	1964
+Canada	CAN	4	1964
+Switzerland	CHE	4	1964
+Finland	FIN	5	1964
+Macedonia	MKD	5	1964
+New Zealand	NZL	5	1964
+Denmark	DNK	6	1964
+Turkey	TUR	6	1964
+Sweden	SWE	8	1964
+Bulgaria	BGR	10	1964
+Netherlands	NLD	10	1964
+Romania	ROU	12	1964
+Czech Republic	CZE	14	1964
+France	FRA	15	1964
+Australia	AUS	18	1964
+United Kingdom	GBR	18	1964
+Hungary	HUN	22	1964
+Poland	POL	23	1964
+Italy	ITA	27	1964
+Japan	JPN	29	1964
+Germany	DEU	50	1964
+United States	USA	90	1964
+Russia	RUS	96	1964
+Cameroon	CMR	1	1968
+China	CHN	1	1968
+Greece	GRC	1	1968
+India	IND	1	1968
+Jamaica	JAM	1	1968
+Pakistan	PAK	1	1968
+Venezuela	VEN	1	1968
+Argentina	ARG	2	1968
+Belgium	BEL	2	1968
+Ethiopia	ETH	2	1968
+"Korea, South"	PRK	2	1968
+Norway	NOR	2	1968
+Tunisia	TUN	2	1968
+Turkey	TUR	2	1968
+Uganda	UGA	2	1968
+Brazil	BRA	3	1968
+New Zealand	NZL	3	1968
+Austria	AUT	4	1968
+Cuba	CUB	4	1968
+Finland	FIN	4	1968
+Mongolia	MNG	4	1968
+Sweden	SWE	4	1968
+Canada	CAN	5	1968
+Iran	IRN	5	1968
+Switzerland	CHE	5	1968
+Netherlands	NLD	7	1968
+Denmark	DNK	8	1968
+Macedonia	MKD	8	1968
+Bulgaria	BGR	9	1968
+Kenya	KEN	9	1968
+Mexico	MEX	9	1968
+Czech Republic	CZE	13	1968
+United Kingdom	GBR	13	1968
+France	FRA	15	1968
+Romania	ROU	15	1968
+Italy	ITA	16	1968
+Australia	AUS	17	1968
+Poland	POL	18	1968
+Japan	JPN	25	1968
+Hungary	HUN	32	1968
+Germany	DEU	51	1968
+Russia	RUS	91	1968
+United States	USA	107	1968
+Argentina	ARG	1	1972
+Denmark	DNK	1	1972
+Ghana	GHA	1	1972
+India	IND	1	1972
+Jamaica	JAM	1	1972
+"Korea, South"	PRK	1	1972
+Lebanon	LBN	1	1972
+Mexico	MEX	1	1972
+Mongolia	MNG	1	1972
+Niger	NER	1	1972
+Nigeria	NGA	1	1972
+Pakistan	PAK	1	1972
+Spain	ESP	1	1972
+Tunisia	TUN	1	1972
+Turkey	TUR	1	1972
+Belgium	BEL	2	1972
+Brazil	BRA	2	1972
+Ethiopia	ETH	2	1972
+Greece	GRC	2	1972
+Uganda	UGA	2	1972
+Austria	AUT	3	1972
+Colombia	COL	3	1972
+Iran	IRN	3	1972
+New Zealand	NZL	3	1972
+Switzerland	CHE	3	1972
+Norway	NOR	4	1972
+Canada	CAN	5	1972
+"Korea, North"	KOR	5	1972
+Macedonia	MKD	5	1972
+Netherlands	NLD	5	1972
+Cuba	CUB	8	1972
+Czech Republic	CZE	8	1972
+Finland	FIN	8	1972
+Kenya	KEN	9	1972
+France	FRA	13	1972
+Romania	ROU	16	1972
+Sweden	SWE	16	1972
+Australia	AUS	17	1972
+Italy	ITA	18	1972
+United Kingdom	GBR	18	1972
+Bulgaria	BGR	21	1972
+Poland	POL	21	1972
+Japan	JPN	29	1972
+Hungary	HUN	35	1972
+United States	USA	94	1972
+Russia	RUS	99	1972
+Germany	DEU	106	1972
+Austria	AUT	1	1976
+Bermuda	BMU	1	1976
+Mongolia	MNG	1	1976
+Pakistan	PAK	1	1976
+Puerto Rico	PRI	1	1976
+Thailand	THA	1	1976
+Trinidad and Tobago	TTO	1	1976
+Venezuela	VEN	1	1976
+Brazil	BRA	2	1976
+Iran	IRN	2	1976
+Jamaica	JAM	2	1976
+"Korea, North"	KOR	2	1976
+Mexico	MEX	2	1976
+Norway	NOR	2	1976
+Portugal	PRT	2	1976
+Spain	ESP	2	1976
+Denmark	DNK	3	1976
+New Zealand	NZL	4	1976
+Switzerland	CHE	4	1976
+Australia	AUS	5	1976
+Netherlands	NLD	5	1976
+Sweden	SWE	5	1976
+Belgium	BEL	6	1976
+Finland	FIN	6	1976
+"Korea, South"	PRK	6	1976
+Czech Republic	CZE	8	1976
+Macedonia	MKD	8	1976
+France	FRA	9	1976
+Canada	CAN	11	1976
+Cuba	CUB	13	1976
+Italy	ITA	13	1976
+United Kingdom	GBR	13	1976
+Bulgaria	BGR	22	1976
+Hungary	HUN	22	1976
+Japan	JPN	25	1976
+Poland	POL	26	1976
+Romania	ROU	27	1976
+United States	USA	94	1976
+Russia	RUS	125	1976
+Germany	DEU	129	1976
+Belgium	BEL	1	1980
+Guyana	GUY	1	1980
+India	IND	1	1980
+Lebanon	LBN	1	1980
+Uganda	UGA	1	1980
+Venezuela	VEN	1	1980
+Zimbabwe	ZWE	1	1980
+Ireland	IRL	2	1980
+Switzerland	CHE	2	1980
+Tanzania	TZA	2	1980
+Greece	GRC	3	1980
+Jamaica	JAM	3	1980
+Netherlands	NLD	3	1980
+Austria	AUT	4	1980
+Brazil	BRA	4	1980
+Ethiopia	ETH	4	1980
+Mexico	MEX	4	1980
+Mongolia	MNG	4	1980
+Denmark	DNK	5	1980
+"Korea, North"	KOR	5	1980
+Spain	ESP	6	1980
+Finland	FIN	8	1980
+Australia	AUS	9	1980
+Macedonia	MKD	9	1980
+Sweden	SWE	12	1980
+Czech Republic	CZE	14	1980
+France	FRA	14	1980
+Italy	ITA	15	1980
+Cuba	CUB	20	1980
+United Kingdom	GBR	21	1980
+Romania	ROU	25	1980
+Hungary	HUN	32	1980
+Poland	POL	32	1980
+Bulgaria	BGR	41	1980
+Germany	DEU	126	1980
+Russia	RUS	195	1980
+Cameroon	CMR	1	1984
+Colombia	COL	1	1984
+Dominican Republic	DOM	1	1984
+Egypt	EGY	1	1984
+Iceland	ISL	1	1984
+Ireland	IRL	1	1984
+Pakistan	PAK	1	1984
+Peru	PER	1	1984
+Syria	SYR	1	1984
+Taiwan	TWN	1	1984
+Thailand	THA	1	1984
+Zambia	ZMB	1	1984
+Algeria	DZA	2	1984
+Greece	GRC	2	1984
+Morocco	MAR	2	1984
+Nigeria	NGA	2	1984
+Puerto Rico	PRI	2	1984
+Austria	AUT	3	1984
+Jamaica	JAM	3	1984
+Kenya	KEN	3	1984
+Norway	NOR	3	1984
+Portugal	PRT	3	1984
+Turkey	TUR	3	1984
+Venezuela	VEN	3	1984
+Belgium	BEL	4	1984
+Spain	ESP	5	1984
+Denmark	DNK	6	1984
+Mexico	MEX	6	1984
+Brazil	BRA	8	1984
+Switzerland	CHE	8	1984
+New Zealand	NZL	11	1984
+Finland	FIN	12	1984
+Netherlands	NLD	13	1984
+Macedonia	MKD	18	1984
+"Korea, South"	PRK	19	1984
+Sweden	SWE	19	1984
+Australia	AUS	24	1984
+France	FRA	28	1984
+China	CHN	32	1984
+Italy	ITA	32	1984
+Japan	JPN	32	1984
+United Kingdom	GBR	37	1984
+Canada	CAN	44	1984
+Romania	ROU	53	1984
+Germany	DEU	59	1984
+United States	USA	174	1984
+Austria	AUT	1	1988
+Chile	CHL	1	1988
+Colombia	COL	1	1988
+Costa Rica	CRI	1	1988
+Djibouti	DJI	1	1988
+Greece	GRC	1	1988
+Indonesia	IDN	1	1988
+Iran	IRN	1	1988
+Mongolia	MNG	1	1988
+Pakistan	PAK	1	1988
+Peru	PER	1	1988
+Philippines	PHL	1	1988
+Portugal	PRT	1	1988
+Senegal	SEN	1	1988
+Suriname	SUR	1	1988
+Thailand	THA	1	1988
+Virgin Islands	VGB	1	1988
+Argentina	ARG	2	1988
+Belgium	BEL	2	1988
+Jamaica	JAM	2	1988
+Mexico	MEX	2	1988
+Turkey	TUR	2	1988
+Morocco	MAR	3	1988
+Denmark	DNK	4	1988
+Finland	FIN	4	1988
+Spain	ESP	4	1988
+Switzerland	CHE	4	1988
+Norway	NOR	5	1988
+Brazil	BRA	6	1988
+Czech Republic	CZE	8	1988
+Kenya	KEN	9	1988
+Canada	CAN	10	1988
+Netherlands	NLD	10	1988
+Sweden	SWE	11	1988
+Macedonia	MKD	12	1988
+New Zealand	NZL	13	1988
+Australia	AUS	14	1988
+Italy	ITA	14	1988
+Japan	JPN	14	1988
+France	FRA	16	1988
+Poland	POL	16	1988
+Hungary	HUN	23	1988
+Romania	ROU	24	1988
+United Kingdom	GBR	24	1988
+China	CHN	28	1988
+"Korea, South"	PRK	33	1988
+Bulgaria	BGR	35	1988
+United States	USA	94	1988
+Russia	RUS	132	1988
+Germany	DEU	142	1988
+Argentina	ARG	1	1992
+"Bahamas, The"	BHM	1	1992
+Colombia	COL	1	1992
+Ghana	GHA	1	1992
+Malaysia	MYS	1	1992
+Mexico	MEX	1	1992
+Pakistan	PAK	1	1992
+Peru	PER	1	1992
+Philippines	PHL	1	1992
+Puerto Rico	PRI	1	1992
+Qatar	QAT	1	1992
+Suriname	SUR	1	1992
+Switzerland	CHE	1	1992
+Taiwan	TWN	1	1992
+Thailand	THA	1	1992
+Algeria	DZA	2	1992
+Austria	AUT	2	1992
+Estonia	EST	2	1992
+Greece	GRC	2	1992
+Ireland	IRL	2	1992
+Israel	ISR	2	1992
+Lithuania	LTU	2	1992
+Mongolia	MNG	2	1992
+Namibia	NAM	2	1992
+Slovenia	SVN	2	1992
+South Africa	ZAF	2	1992
+Belgium	BEL	3	1992
+Brazil	BRA	3	1992
+Croatia	HRV	3	1992
+Ethiopia	ETH	3	1992
+Iran	IRN	3	1992
+Latvia	LVA	3	1992
+Morocco	MAR	3	1992
+Jamaica	JAM	4	1992
+Nigeria	NGA	4	1992
+Finland	FIN	5	1992
+Indonesia	IDN	5	1992
+Denmark	DNK	6	1992
+Turkey	TUR	6	1992
+Czech Republic	CZE	7	1992
+Norway	NOR	7	1992
+Kenya	KEN	8	1992
+"Korea, North"	KOR	9	1992
+New Zealand	NZL	10	1992
+Sweden	SWE	12	1992
+Netherlands	NLD	15	1992
+Bulgaria	BGR	16	1992
+Canada	CAN	18	1992
+Romania	ROU	18	1992
+Italy	ITA	19	1992
+Poland	POL	19	1992
+United Kingdom	GBR	20	1992
+Japan	JPN	22	1992
+Spain	ESP	22	1992
+Australia	AUS	27	1992
+France	FRA	29	1992
+"Korea, South"	PRK	29	1992
+Hungary	HUN	30	1992
+Cuba	CUB	31	1992
+China	CHN	54	1992
+Germany	DEU	82	1992
+United States	USA	108	1992
+Azerbaijan	AZE	1	1996
+"Bahamas, The"	BHM	1	1996
+Burundi	BDI	1	1996
+Costa Rica	CRI	1	1996
+Ecuador	ECU	1	1996
+Hong Kong	HKG	1	1996
+India	IND	1	1996
+Israel	ISR	1	1996
+Latvia	LVA	1	1996
+Lithuania	LTU	1	1996
+Mexico	MEX	1	1996
+Mongolia	MNG	1	1996
+Mozambique	MOZ	1	1996
+Philippines	PHL	1	1996
+Puerto Rico	PRI	1	1996
+Syria	SYR	1	1996
+Taiwan	TWN	1	1996
+Tonga	TON	1	1996
+Tunisia	TUN	1	1996
+Uganda	UGA	1	1996
+Zambia	ZMB	1	1996
+Armenia	ARM	2	1996
+Croatia	HRV	2	1996
+Georgia	GEO	2	1996
+Malaysia	MYS	2	1996
+Moldova	MDA	2	1996
+Morocco	MAR	2	1996
+Namibia	NAM	2	1996
+Portugal	PRT	2	1996
+Slovenia	SVN	2	1996
+Thailand	THA	2	1996
+Trinidad and Tobago	TTO	2	1996
+Uzbekistan	UZB	2	1996
+Algeria	DZA	3	1996
+Argentina	ARG	3	1996
+Austria	AUT	3	1996
+Ethiopia	ETH	3	1996
+Iran	IRN	3	1996
+Slovakia	SVK	3	1996
+Finland	FIN	4	1996
+Indonesia	IDN	4	1996
+Ireland	IRL	4	1996
+Macedonia	MKD	4	1996
+"Korea, North"	KOR	5	1996
+South Africa	ZAF	5	1996
+Belgium	BEL	6	1996
+Denmark	DNK	6	1996
+Jamaica	JAM	6	1996
+New Zealand	NZL	6	1996
+Nigeria	NGA	6	1996
+Turkey	TUR	6	1996
+Norway	NOR	7	1996
+Switzerland	CHE	7	1996
+Greece	GRC	8	1996
+Kenya	KEN	8	1996
+Sweden	SWE	8	1996
+Czech Republic	CZE	11	1996
+Kazakhstan	KAZ	11	1996
+Japan	JPN	14	1996
+Belarus	BLR	15	1996
+Brazil	BRA	15	1996
+Bulgaria	BGR	15	1996
+United Kingdom	GBR	15	1996
+Poland	POL	17	1996
+Spain	ESP	17	1996
+Netherlands	NLD	19	1996
+Romania	ROU	20	1996
+Hungary	HUN	21	1996
+Canada	CAN	22	1996
+Ukraine	UKR	23	1996
+Cuba	CUB	25	1996
+"Korea, South"	PRK	27	1996
+Italy	ITA	35	1996
+France	FRA	37	1996
+Australia	AUS	41	1996
+China	CHN	50	1996
+Russia	RUS	63	1996
+Germany	DEU	65	1996
+United States	USA	101	1996
+Armenia	ARM	1	2000
+Barbados	BRB	1	2000
+Cameroon	CMR	1	2000
+Chile	CHL	1	2000
+Colombia	COL	1	2000
+Iceland	ISL	1	2000
+India	IND	1	2000
+Ireland	IRL	1	2000
+Israel	ISR	1	2000
+Kuwait	KWT	1	2000
+Kyrgyzstan	KGZ	1	2000
+Macedonia	MKD	1	2000
+Mozambique	MOZ	1	2000
+Qatar	QAT	1	2000
+Sri Lanka	LKA	1	2000
+Uruguay	URY	1	2000
+Vietnam	VNM	1	2000
+"Bahamas, The"	BHM	2	2000
+Costa Rica	CRI	2	2000
+Croatia	HRV	2	2000
+Moldova	MDA	2	2000
+Portugal	PRT	2	2000
+Saudi Arabia	SAU	2	2000
+Slovenia	SVN	2	2000
+Trinidad and Tobago	TTO	2	2000
+Austria	AUT	3	2000
+Azerbaijan	AZE	3	2000
+Estonia	EST	3	2000
+Latvia	LVA	3	2000
+Macedonia	MKD	3	2000
+Nigeria	NGA	3	2000
+Thailand	THA	3	2000
+Argentina	ARG	4	2000
+Finland	FIN	4	2000
+Iran	IRN	4	2000
+"Korea, North"	KOR	4	2000
+New Zealand	NZL	4	2000
+Uzbekistan	UZB	4	2000
+Algeria	DZA	5	2000
+Belgium	BEL	5	2000
+Lithuania	LTU	5	2000
+Morocco	MAR	5	2000
+Slovakia	SVK	5	2000
+South Africa	ZAF	5	2000
+Taiwan	TWN	5	2000
+Turkey	TUR	5	2000
+Denmark	DNK	6	2000
+Georgia	GEO	6	2000
+Indonesia	IDN	6	2000
+Mexico	MEX	6	2000
+Kazakhstan	KAZ	7	2000
+Kenya	KEN	7	2000
+Czech Republic	CZE	8	2000
+Ethiopia	ETH	8	2000
+Jamaica	JAM	9	2000
+Switzerland	CHE	9	2000
+Norway	NOR	10	2000
+Spain	ESP	11	2000
+Brazil	BRA	12	2000
+Sweden	SWE	12	2000
+Bulgaria	BGR	13	2000
+Greece	GRC	13	2000
+Canada	CAN	14	2000
+Poland	POL	14	2000
+Belarus	BLR	17	2000
+Hungary	HUN	17	2000
+Japan	JPN	18	2000
+Ukraine	UKR	23	2000
+Netherlands	NLD	25	2000
+Romania	ROU	26	2000
+"Korea, South"	PRK	28	2000
+United Kingdom	GBR	28	2000
+Cuba	CUB	29	2000
+Italy	ITA	34	2000
+France	FRA	38	2000
+Germany	DEU	56	2000
+Australia	AUS	58	2000
+China	CHN	58	2000
+Russia	RUS	89	2000
+United States	USA	94	2000
+Cameroon	CMR	1	2004
+Dominican Republic	DOM	1	2004
+Eritrea	ERI	1	2004
+Hong Kong	HKG	1	2004
+India	IND	1	2004
+Mongolia	MNG	1	2004
+Paraguay	PRY	1	2004
+Syria	SYR	1	2004
+Trinidad and Tobago	TTO	1	2004
+United Arab Emirates	ARE	1	2004
+"Bahamas, The"	BHM	2	2004
+Colombia	COL	2	2004
+Finland	FIN	2	2004
+Israel	ISR	2	2004
+Nigeria	NGA	2	2004
+Serbia	SRB	2	2004
+Venezuela	VEN	2	2004
+Belgium	BEL	3	2004
+Chile	CHL	3	2004
+Estonia	EST	3	2004
+Lithuania	LTU	3	2004
+Morocco	MAR	3	2004
+Portugal	PRT	3	2004
+Zimbabwe	ZWE	3	2004
+Georgia	GEO	4	2004
+Indonesia	IDN	4	2004
+Latvia	LVA	4	2004
+Mexico	MEX	4	2004
+Slovenia	SVN	4	2004
+Azerbaijan	AZE	5	2004
+Croatia	HRV	5	2004
+Egypt	EGY	5	2004
+Jamaica	JAM	5	2004
+"Korea, North"	KOR	5	2004
+New Zealand	NZL	5	2004
+Switzerland	CHE	5	2004
+Taiwan	TWN	5	2004
+Uzbekistan	UZB	5	2004
+Argentina	ARG	6	2004
+Iran	IRN	6	2004
+Norway	NOR	6	2004
+Slovakia	SVK	6	2004
+South Africa	ZAF	6	2004
+Austria	AUT	7	2004
+Ethiopia	ETH	7	2004
+Kenya	KEN	7	2004
+Sweden	SWE	7	2004
+Czech Republic	CZE	8	2004
+Denmark	DNK	8	2004
+Kazakhstan	KAZ	8	2004
+Thailand	THA	8	2004
+Brazil	BRA	10	2004
+Poland	POL	10	2004
+Turkey	TUR	10	2004
+Bulgaria	BGR	12	2004
+Canada	CAN	12	2004
+Belarus	BLR	15	2004
+Greece	GRC	16	2004
+Hungary	HUN	17	2004
+Romania	ROU	19	2004
+Spain	ESP	19	2004
+Netherlands	NLD	22	2004
+Ukraine	UKR	23	2004
+Cuba	CUB	27	2004
+"Korea, South"	PRK	30	2004
+United Kingdom	GBR	31	2004
+Italy	ITA	32	2004
+France	FRA	33	2004
+Japan	JPN	37	2004
+Australia	AUS	49	2004
+Germany	DEU	49	2004
+China	CHN	63	2004
+Russia	RUS	93	2004
+United States	USA	101	2004
+Afghanistan	AFG	1	2008
+Bahrain	BHR	1	2008
+Cameroon	CMR	1	2008
+Chile	CHL	1	2008
+Ecuador	ECU	1	2008
+Egypt	EGY	1	2008
+Iceland	ISL	1	2008
+Israel	ISR	1	2008
+Malaysia	MYS	1	2008
+Mauritius	MUS	1	2008
+Moldova	MDA	1	2008
+Panama	PAN	1	2008
+Singapore	SGP	1	2008
+South Africa	ZAF	1	2008
+Sudan	SDN	1	2008
+Togo	TGO	1	2008
+Tunisia	TUN	1	2008
+Venezuela	VEN	1	2008
+Vietnam	VNM	1	2008
+Algeria	DZA	2	2008
+"Bahamas, The"	BHM	2	2008
+Belgium	BEL	2	2008
+Colombia	COL	2	2008
+Dominican Republic	DOM	2	2008
+Estonia	EST	2	2008
+Iran	IRN	2	2008
+Kyrgyzstan	KGZ	2	2008
+Morocco	MAR	2	2008
+Portugal	PRT	2	2008
+Tajikistan	TJK	2	2008
+Trinidad and Tobago	TTO	2	2008
+Austria	AUT	3	2008
+India	IND	3	2008
+Ireland	IRL	3	2008
+Latvia	LVA	3	2008
+Mexico	MEX	3	2008
+Serbia	SRB	3	2008
+Finland	FIN	4	2008
+Greece	GRC	4	2008
+Mongolia	MNG	4	2008
+Nigeria	NGA	4	2008
+Taiwan	TWN	4	2008
+Thailand	THA	4	2008
+Zimbabwe	ZWE	4	2008
+Bulgaria	BGR	5	2008
+Croatia	HRV	5	2008
+Indonesia	IDN	5	2008
+Lithuania	LTU	5	2008
+Slovenia	SVN	5	2008
+Sweden	SWE	5	2008
+Argentina	ARG	6	2008
+Armenia	ARM	6	2008
+Czech Republic	CZE	6	2008
+Georgia	GEO	6	2008
+"Korea, North"	KOR	6	2008
+Slovakia	SVK	6	2008
+Switzerland	CHE	6	2008
+Uzbekistan	UZB	6	2008
+Azerbaijan	AZE	7	2008
+Denmark	DNK	7	2008
+Ethiopia	ETH	7	2008
+Romania	ROU	8	2008
+Turkey	TUR	8	2008
+New Zealand	NZL	9	2008
+Hungary	HUN	10	2008
+Norway	NOR	10	2008
+Poland	POL	10	2008
+Jamaica	JAM	11	2008
+Kazakhstan	KAZ	13	2008
+Kenya	KEN	14	2008
+Brazil	BRA	15	2008
+Netherlands	NLD	17	2008
+Canada	CAN	18	2008
+Spain	ESP	18	2008
+Belarus	BLR	19	2008
+Cuba	CUB	24	2008
+Japan	JPN	25	2008
+Ukraine	UKR	27	2008
+Italy	ITA	28	2008
+"Korea, South"	PRK	31	2008
+France	FRA	40	2008
+Germany	DEU	41	2008
+Australia	AUS	46	2008
+United Kingdom	GBR	47	2008
+Russia	RUS	72	2008
+China	CHN	100	2008
+United States	USA	110	2008
+Afghanistan	AFG	1	2012
+Algeria	DZA	1	2012
+"Bahamas, The"	BHM	1	2012
+Bahrain	BHR	1	2012
+Botswana	BWA	1	2012
+Cyprus	CYP	1	2012
+Gabon	GAB	1	2012
+Grenada	GRD	1	2012
+Guatemala	GTM	1	2012
+Hong Kong	HKG	1	2012
+Kuwait	KWT	1	2012
+Montenegro	MNE	1	2012
+Morocco	MAR	1	2012
+Portugal	PRT	1	2012
+Saudi Arabia	SAU	1	2012
+Tajikistan	TJK	1	2012
+Uganda	UGA	1	2012
+Venezuela	VEN	1	2012
+Bulgaria	BGR	2	2012
+Dominican Republic	DOM	2	2012
+Egypt	EGY	2	2012
+Estonia	EST	2	2012
+Greece	GRC	2	2012
+Indonesia	IDN	2	2012
+Latvia	LVA	2	2012
+Malaysia	MYS	2	2012
+Moldova	MDA	2	2012
+Puerto Rico	PRI	2	2012
+Qatar	QAT	2	2012
+Singapore	SGP	2	2012
+Taiwan	TWN	2	2012
+Armenia	ARM	3	2012
+Belgium	BEL	3	2012
+Finland	FIN	3	2012
+Thailand	THA	3	2012
+Tunisia	TUN	3	2012
+Argentina	ARG	4	2012
+Norway	NOR	4	2012
+Serbia	SRB	4	2012
+Slovakia	SVK	4	2012
+Slovenia	SVN	4	2012
+Switzerland	CHE	4	2012
+Trinidad and Tobago	TTO	4	2012
+Uzbekistan	UZB	4	2012
+Ireland	IRL	5	2012
+Lithuania	LTU	5	2012
+Mongolia	MNG	5	2012
+Turkey	TUR	5	2012
+Croatia	HRV	6	2012
+India	IND	6	2012
+"Korea, North"	KOR	6	2012
+South Africa	ZAF	6	2012
+Ethiopia	ETH	7	2012
+Georgia	GEO	7	2012
+Mexico	MEX	7	2012
+Colombia	COL	8	2012
+Sweden	SWE	8	2012
+Denmark	DNK	9	2012
+Romania	ROU	9	2012
+Azerbaijan	AZE	10	2012
+Czech Republic	CZE	10	2012
+Poland	POL	10	2012
+Kenya	KEN	11	2012
+Belarus	BLR	12	2012
+Iran	IRN	12	2012
+Jamaica	JAM	12	2012
+Kazakhstan	KAZ	13	2012
+New Zealand	NZL	13	2012
+Cuba	CUB	14	2012
+Brazil	BRA	17	2012
+Hungary	HUN	17	2012
+Spain	ESP	17	2012
+Canada	CAN	18	2012
+Netherlands	NLD	20	2012
+Ukraine	UKR	20	2012
+Italy	ITA	28	2012
+"Korea, South"	PRK	28	2012
+France	FRA	34	2012
+Australia	AUS	35	2012
+Japan	JPN	38	2012
+Germany	DEU	44	2012
+United Kingdom	GBR	65	2012
+Russia	RUS	81	2012
+China	CHN	88	2012
+United States	USA	104	2012
+Austria	AUT	1	2016
+Burundi	BDI	1	2016
+Dominican Republic	DOM	1	2016
+Estonia	EST	1	2016
+Fiji	FJI	1	2016
+Finland	FIN	1	2016
+Grenada	GRD	1	2016
+Jordan	JOR	1	2016
+Kosovo	KSV	1	2016
+Moldova	MDA	1	2016
+Morocco	MAR	1	2016
+Niger	NER	1	2016
+Nigeria	NGA	1	2016
+Philippines	PHL	1	2016
+Portugal	PRT	1	2016
+Puerto Rico	PRI	1	2016
+Qatar	QAT	1	2016
+Singapore	SGP	1	2016
+Tajikistan	TJK	1	2016
+Trinidad and Tobago	TTO	1	2016
+United Arab Emirates	ARE	1	2016
+Algeria	DZA	2	2016
+"Bahamas, The"	BHM	2	2016
+Bahrain	BHR	2	2016
+India	IND	2	2016
+Ireland	IRL	2	2016
+Israel	ISR	2	2016
+Mongolia	MNG	2	2016
+Vietnam	VNM	2	2016
+Bulgaria	BGR	3	2016
+Egypt	EGY	3	2016
+Indonesia	IDN	3	2016
+Taiwan	TWN	3	2016
+Tunisia	TUN	3	2016
+Venezuela	VEN	3	2016
+Argentina	ARG	4	2016
+Armenia	ARM	4	2016
+Lithuania	LTU	4	2016
+Norway	NOR	4	2016
+Slovakia	SVK	4	2016
+Slovenia	SVN	4	2016
+Malaysia	MYS	5	2016
+Mexico	MEX	5	2016
+Romania	ROU	5	2016
+Belgium	BEL	6	2016
+Greece	GRC	6	2016
+Thailand	THA	6	2016
+Georgia	GEO	7	2016
+"Korea, North"	KOR	7	2016
+Switzerland	CHE	7	2016
+Colombia	COL	8	2016
+Ethiopia	ETH	8	2016
+Iran	IRN	8	2016
+Serbia	SRB	8	2016
+Turkey	TUR	8	2016
+Belarus	BLR	9	2016
+Croatia	HRV	10	2016
+Czech Republic	CZE	10	2016
+South Africa	ZAF	10	2016
+Cuba	CUB	11	2016
+Jamaica	JAM	11	2016
+Poland	POL	11	2016
+Sweden	SWE	11	2016
+Ukraine	UKR	11	2016
+Kenya	KEN	13	2016
+Uzbekistan	UZB	13	2016
+Denmark	DNK	15	2016
+Hungary	HUN	15	2016
+Kazakhstan	KAZ	17	2016
+Spain	ESP	17	2016
+Azerbaijan	AZE	18	2016
+New Zealand	NZL	18	2016
+Brazil	BRA	19	2016
+Netherlands	NLD	19	2016
+"Korea, South"	PRK	21	2016
+Canada	CAN	22	2016
+Italy	ITA	28	2016
+Australia	AUS	29	2016
+Japan	JPN	41	2016
+France	FRA	42	2016
+Germany	DEU	42	2016
+Russia	RUS	56	2016
+United Kingdom	GBR	67	2016
+China	CHN	70	2016
+United States	USA	121	2016
+Austria	AUT	0	1916
+Burundi	BDI	0	1916
+Dominican Republic	DOM	0	1916
+Estonia	EST	0	1916
+Fiji	FJI	0	1916
+Finland	FIN	0	1916
+Grenada	GRD	0	1916
+Jordan	JOR	0	1916
+Kosovo	KSV	0	1916
+Moldova	MDA	0	1916
+Morocco	MAR	0	1916
+Niger	NER	0	1916
+Nigeria	NGA	0	1916
+Philippines	PHL	0	1916
+Portugal	PRT	0	1916
+Puerto Rico	PRI	0	1916
+Qatar	QAT	0	1916
+Singapore	SGP	0	1916
+Tajikistan	TJK	0	1916
+Trinidad and Tobago	TTO	0	1916
+United Arab Emirates	ARE	0	1916
+Algeria	DZA	0	1916
+"Bahamas, The"	BHM	0	1916
+Bahrain	BHR	0	1916
+India	IND	0	1916
+Ireland	IRL	0	1916
+Israel	ISR	0	1916
+Mongolia	MNG	0	1916
+Vietnam	VNM	0	1916
+Bulgaria	BGR	0	1916
+Egypt	EGY	0	1916
+Indonesia	IDN	0	1916
+Taiwan	TWN	0	1916
+Tunisia	TUN	0	1916
+Venezuela	VEN	0	1916
+Argentina	ARG	0	1916
+Armenia	ARM	0	1916
+Lithuania	LTU	0	1916
+Norway	NOR	0	1916
+Slovakia	SVK	0	1916
+Slovenia	SVN	0	1916
+Malaysia	MYS	0	1916
+Mexico	MEX	0	1916
+Romania	ROU	0	1916
+Belgium	BEL	0	1916
+Greece	GRC	0	1916
+Thailand	THA	0	1916
+Georgia	GEO	0	1916
+"Korea, North"	KOR	0	1916
+Switzerland	CHE	0	1916
+Colombia	COL	0	1916
+Ethiopia	ETH	0	1916
+Iran	IRN	0	1916
+Serbia	SRB	0	1916
+Turkey	TUR	0	1916
+Belarus	BLR	0	1916
+Croatia	HRV	0	1916
+Czech Republic	CZE	0	1916
+South Africa	ZAF	0	1916
+Cuba	CUB	0	1916
+Jamaica	JAM	0	1916
+Poland	POL	0	1916
+Sweden	SWE	0	1916
+Ukraine	UKR	0	1916
+Kenya	KEN	0	1916
+Uzbekistan	UZB	0	1916
+Denmark	DNK	0	1916
+Hungary	HUN	0	1916
+Kazakhstan	KAZ	0	1916
+Spain	ESP	0	1916
+Azerbaijan	AZE	0	1916
+New Zealand	NZL	0	1916
+Brazil	BRA	0	1916
+Netherlands	NLD	0	1916
+"Korea, South"	PRK	0	1916
+Canada	CAN	0	1916
+Italy	ITA	0	1916
+Australia	AUS	0	1916
+Japan	JPN	0	1916
+France	FRA	0	1916
+Germany	DEU	0	1916
+Russia	RUS	0	1916
+United Kingdom	GBR	0	1916
+China	CHN	0	1916
+United States	USA	0	1916
+Austria	AUT	0	1940
+Burundi	BDI	0	1940
+Dominican Republic	DOM	0	1940
+Estonia	EST	0	1940
+Fiji	FJI	0	1940
+Finland	FIN	0	1940
+Grenada	GRD	0	1940
+Jordan	JOR	0	1940
+Kosovo	KSV	0	1940
+Moldova	MDA	0	1940
+Morocco	MAR	0	1940
+Niger	NER	0	1940
+Nigeria	NGA	0	1940
+Philippines	PHL	0	1940
+Portugal	PRT	0	1940
+Puerto Rico	PRI	0	1940
+Qatar	QAT	0	1940
+Singapore	SGP	0	1940
+Tajikistan	TJK	0	1940
+Trinidad and Tobago	TTO	0	1940
+United Arab Emirates	ARE	0	1940
+Algeria	DZA	0	1940
+"Bahamas, The"	BHM	0	1940
+Bahrain	BHR	0	1940
+India	IND	0	1940
+Ireland	IRL	0	1940
+Israel	ISR	0	1940
+Mongolia	MNG	0	1940
+Vietnam	VNM	0	1940
+Bulgaria	BGR	0	1940
+Egypt	EGY	0	1940
+Indonesia	IDN	0	1940
+Taiwan	TWN	0	1940
+Tunisia	TUN	0	1940
+Venezuela	VEN	0	1940
+Argentina	ARG	0	1940
+Armenia	ARM	0	1940
+Lithuania	LTU	0	1940
+Norway	NOR	0	1940
+Slovakia	SVK	0	1940
+Slovenia	SVN	0	1940
+Malaysia	MYS	0	1940
+Mexico	MEX	0	1940
+Romania	ROU	0	1940
+Belgium	BEL	0	1940
+Greece	GRC	0	1940
+Thailand	THA	0	1940
+Georgia	GEO	0	1940
+"Korea, North"	KOR	0	1940
+Switzerland	CHE	0	1940
+Colombia	COL	0	1940
+Ethiopia	ETH	0	1940
+Iran	IRN	0	1940
+Serbia	SRB	0	1940
+Turkey	TUR	0	1940
+Belarus	BLR	0	1940
+Croatia	HRV	0	1940
+Czech Republic	CZE	0	1940
+South Africa	ZAF	0	1940
+Cuba	CUB	0	1940
+Jamaica	JAM	0	1940
+Poland	POL	0	1940
+Sweden	SWE	0	1940
+Ukraine	UKR	0	1940
+Kenya	KEN	0	1940
+Uzbekistan	UZB	0	1940
+Denmark	DNK	0	1940
+Hungary	HUN	0	1940
+Kazakhstan	KAZ	0	1940
+Spain	ESP	0	1940
+Azerbaijan	AZE	0	1940
+New Zealand	NZL	0	1940
+Brazil	BRA	0	1940
+Netherlands	NLD	0	1940
+"Korea, South"	PRK	0	1940
+Canada	CAN	0	1940
+Italy	ITA	0	1940
+Australia	AUS	0	1940
+Japan	JPN	0	1940
+France	FRA	0	1940
+Germany	DEU	0	1940
+Russia	RUS	0	1940
+United Kingdom	GBR	0	1940
+China	CHN	0	1940
+United States	USA	0	1940
+Austria	AUT	0	1944
+Burundi	BDI	0	1944
+Dominican Republic	DOM	0	1944
+Estonia	EST	0	1944
+Fiji	FJI	0	1944
+Finland	FIN	0	1944
+Grenada	GRD	0	1944
+Jordan	JOR	0	1944
+Kosovo	KSV	0	1944
+Moldova	MDA	0	1944
+Morocco	MAR	0	1944
+Niger	NER	0	1944
+Nigeria	NGA	0	1944
+Philippines	PHL	0	1944
+Portugal	PRT	0	1944
+Puerto Rico	PRI	0	1944
+Qatar	QAT	0	1944
+Singapore	SGP	0	1944
+Tajikistan	TJK	0	1944
+Trinidad and Tobago	TTO	0	1944
+United Arab Emirates	ARE	0	1944
+Algeria	DZA	0	1944
+"Bahamas, The"	BHM	0	1944
+Bahrain	BHR	0	1944
+India	IND	0	1944
+Ireland	IRL	0	1944
+Israel	ISR	0	1944
+Mongolia	MNG	0	1944
+Vietnam	VNM	0	1944
+Bulgaria	BGR	0	1944
+Egypt	EGY	0	1944
+Indonesia	IDN	0	1944
+Taiwan	TWN	0	1944
+Tunisia	TUN	0	1944
+Venezuela	VEN	0	1944
+Argentina	ARG	0	1944
+Armenia	ARM	0	1944
+Lithuania	LTU	0	1944
+Norway	NOR	0	1944
+Slovakia	SVK	0	1944
+Slovenia	SVN	0	1944
+Malaysia	MYS	0	1944
+Mexico	MEX	0	1944
+Romania	ROU	0	1944
+Belgium	BEL	0	1944
+Greece	GRC	0	1944
+Thailand	THA	0	1944
+Georgia	GEO	0	1944
+"Korea, North"	KOR	0	1944
+Switzerland	CHE	0	1944
+Colombia	COL	0	1944
+Ethiopia	ETH	0	1944
+Iran	IRN	0	1944
+Serbia	SRB	0	1944
+Turkey	TUR	0	1944
+Belarus	BLR	0	1944
+Croatia	HRV	0	1944
+Czech Republic	CZE	0	1944
+South Africa	ZAF	0	1944
+Cuba	CUB	0	1944
+Jamaica	JAM	0	1944
+Poland	POL	0	1944
+Sweden	SWE	0	1944
+Ukraine	UKR	0	1944
+Kenya	KEN	0	1944
+Uzbekistan	UZB	0	1944
+Denmark	DNK	0	1944
+Hungary	HUN	0	1944
+Kazakhstan	KAZ	0	1944
+Spain	ESP	0	1944
+Azerbaijan	AZE	0	1944
+New Zealand	NZL	0	1944
+Brazil	BRA	0	1944
+Netherlands	NLD	0	1944
+"Korea, South"	PRK	0	1944
+Canada	CAN	0	1944
+Italy	ITA	0	1944
+Australia	AUS	0	1944
+Japan	JPN	0	1944
+France	FRA	0	1944
+Germany	DEU	0	1944
+Russia	RUS	0	1944
+United Kingdom	GBR	0	1944
+China	CHN	0	1944
+United States	USA	0	1944
+Austria	AUT	0	2018
+Burundi	BDI	0	2018
+Dominican Republic	DOM	0	2018
+Estonia	EST	0	2018
+Fiji	FJI	0	2018
+Finland	FIN	0	2018
+Grenada	GRD	0	2018
+Jordan	JOR	0	2018
+Kosovo	KSV	0	2018
+Moldova	MDA	0	2018
+Morocco	MAR	0	2018
+Niger	NER	0	2018
+Nigeria	NGA	0	2018
+Philippines	PHL	0	2018
+Portugal	PRT	0	2018
+Puerto Rico	PRI	0	2018
+Qatar	QAT	0	2018
+Singapore	SGP	0	2018
+Tajikistan	TJK	0	2018
+Trinidad and Tobago	TTO	0	2018
+United Arab Emirates	ARE	0	2018
+Algeria	DZA	0	2018
+"Bahamas, The"	BHM	0	2018
+Bahrain	BHR	0	2018
+India	IND	0	2018
+Ireland	IRL	0	2018
+Israel	ISR	0	2018
+Mongolia	MNG	0	2018
+Vietnam	VNM	0	2018
+Bulgaria	BGR	0	2018
+Egypt	EGY	0	2018
+Indonesia	IDN	0	2018
+Taiwan	TWN	0	2018
+Tunisia	TUN	0	2018
+Venezuela	VEN	0	2018
+Argentina	ARG	0	2018
+Armenia	ARM	0	2018
+Lithuania	LTU	0	2018
+Norway	NOR	0	2018
+Slovakia	SVK	0	2018
+Slovenia	SVN	0	2018
+Malaysia	MYS	0	2018
+Mexico	MEX	0	2018
+Romania	ROU	0	2018
+Belgium	BEL	0	2018
+Greece	GRC	0	2018
+Thailand	THA	0	2018
+Georgia	GEO	0	2018
+"Korea, North"	KOR	0	2018
+Switzerland	CHE	0	2018
+Colombia	COL	0	2018
+Ethiopia	ETH	0	2018
+Iran	IRN	0	2018
+Serbia	SRB	0	2018
+Turkey	TUR	0	2018
+Belarus	BLR	0	2018
+Croatia	HRV	0	2018
+Czech Republic	CZE	0	2018
+South Africa	ZAF	0	2018
+Cuba	CUB	0	2018
+Jamaica	JAM	0	2018
+Poland	POL	0	2018
+Sweden	SWE	0	2018
+Ukraine	UKR	0	2018
+Kenya	KEN	0	2018
+Uzbekistan	UZB	0	2018
+Denmark	DNK	0	2018
+Hungary	HUN	0	2018
+Kazakhstan	KAZ	0	2018
+Spain	ESP	0	2018
+Azerbaijan	AZE	0	2018
+New Zealand	NZL	0	2018
+Brazil	BRA	0	2018
+Netherlands	NLD	0	2018
+"Korea, South"	PRK	0	2018
+Canada	CAN	0	2018
+Italy	ITA	0	2018
+Australia	AUS	0	2018
+Japan	JPN	0	2018
+France	FRA	0	2018
+Germany	DEU	0	2018
+Russia	RUS	0	2018
+United Kingdom	GBR	0	2018
+China	CHN	0	2018
+United States	USA	0	2018
